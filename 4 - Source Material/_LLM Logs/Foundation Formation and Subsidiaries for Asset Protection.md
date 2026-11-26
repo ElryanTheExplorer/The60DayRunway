@@ -7,6 +7,9 @@ Index:
   - "[[The ARX Index]]"
 Topic:
   - "[[Business Is Essentially A Solved Game]]"
+  - "[[Money]]"
+  - "[[Machine Learning]]"
+  - "[[Architecture]]"
 Link: 
 Status: Unweathered
 Published: true
@@ -14,6 +17,9 @@ Author:
   - "[[Landon Dahle]]"
 ---
 ---
+
+Themes: [[Money]], [[Machine Learning]], [[Architecture]]
+
 # Summary: [[Foundation Company Holding Structure]]
 
 

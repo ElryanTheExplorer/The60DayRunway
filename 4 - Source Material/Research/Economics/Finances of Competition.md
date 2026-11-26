@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 https://www.usaspending.gov/agency/department-of-education?fy=2024
 - we were spending $241.66 BILLION on educational funding in 2024
 

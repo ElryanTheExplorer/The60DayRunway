@@ -5,12 +5,15 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Philosophy]]
 
 > _Conversational depth — public reasoning, peer debate._
 

@@ -4,13 +4,17 @@ Last Updated: 2025-05-06 22:29
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Machine Learning]]"
 Link:
   - https://newsletter.squishy.computer/p/all-you-need-is-links
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Machine Learning]]
+
 # Summary:
 
 

@@ -16,41 +16,41 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
 		- [ ] straterra (trying being off it; haven't been since started, super fatigued all day so yike dependency go brr)
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (also skipped today, am exhausted lmao)
-- [x] Check financial status (e.g., bank, crypto, whatever)
+- [x] Check financial status (e.g., bank, crypto, whatever) #archived
 - [ ] Eat something (yes, that counts)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
-- [x] Shower (for the love of all that is sacred)
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
+- [x] Shower (for the love of all that is sacred) #archived
 - [ ] Reflect / prep for public speaking / writing
-- [x] Go outside (went swimming!)
+- [x] Go outside (went swimming!) #archived
 - [ ] Dinner or evening wind-down
 
 ## 🌱 Throughout Day
 
 - [ ] Drink entire water bottle (seriously)
-- [x] Move body, stretch, or at least shift positions
+- [x] Move body, stretch, or at least shift positions #archived
 - [ ] !!BREATHE!!
 
 
 ## 🤑Work Schedule
 
 - [ ] Finish admin or digital task  
-	- [x] Transfer ideas / organize files  
+	- [x] Transfer ideas / organize files #archived
 	- [ ] Filter personal info to upload
-- [x] Post updates or progress  
-	- [x] Push to repo / update site  
-	- [x] Update socials / links
+- [x] Post updates or progress #archived
+	- [x] Push to repo / update site #archived
+	- [x] Update socials / links #archived
 
 
 ---

@@ -5,6 +5,8 @@ tags:
   - Archive
 Index:
   - "[[Journals]]"
+Topic:
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author:
@@ -12,23 +14,25 @@ Author:
 ---
 ---
 
+Themes: [[Programming]]
+
 # 📆 Daily Log – 2025-05-06
 
 **Shit I Need to Do Today:**
 
 ## 🕒 Life Schedule
 
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something caffeinated 
-	- [x] Breakfast
+	- [x] Breakfast #archived
 - [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [ ] Do a chore (dish/laundry/trash/etc.)
@@ -51,20 +55,20 @@ Author:
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
 - [ ] Beurocratic Stuff
-	- [x] https://corporations.utah.gov/business-entities/domestic-limited-liability-company/
-	- [x] https://howtostartanllc.com/utah-llc/cost-to-form
-	- [x] LLC for HA 
+	- [x] https://corporations.utah.gov/business-entities/domestic-limited-liability-company/ #archived
+	- [x] https://howtostartanllc.com/utah-llc/cost-to-form #archived
+	- [x] LLC for HA #archived
 		- [ ] [[Licensing Requirements for Creative Development Business]] - eepy, doin tmrw
 	- [ ] LLC for ARX (waiting until have a relevant email and website for it)
 		- [ ] Buy .org domain
 - [ ] Semantic Web Sprint
-	- [x] Copy content over from [[conversation on The Decentralized Semantic Web Mirror (DSWM)]]
-		- [x] Tech Stack Overview: [[Intro to The DSWM Tech Stack]]
+	- [x] Copy content over from [[conversation on The Decentralized Semantic Web Mirror (DSWM)]] #archived
+		- [x] Tech Stack Overview: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The DSWM/Intro to The DSWM Tech Stack]] #archived
 	- [ ] Copy paste code into code structure + documentation and automation tools
 		- [ ] Re-parse to Draft out cursor utilizable pseudocode (doubt GPT code works as is)
-- [x] Push to repo / update site  
+- [x] Push to repo / update site #archived
 - [ ] Record and Post V-log
-	- [x] Did notebook LM podcast cause friends were here and I'm busy
+	- [x] Did notebook LM podcast cause friends were here and I'm busy #archived
 - [ ] Content to consume:
 	- [ ] OpenAI’s Sam Altman Talks ChatGPT, AI Agents and Superintelligence — Live at TED2025 https://www.youtube.com/watch?v=5MWT_doo68k
 	- [ ] Veritasium: What Everyone Gets Wrong About AI and Learning – Derek Muller Explains https://www.youtube.com/watch?v=0xS68sl2D70

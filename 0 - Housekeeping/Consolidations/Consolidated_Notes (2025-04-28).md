@@ -1,3 +1,21 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Area
+Index: 
+Topic:
+  - "[[Housekeeping]]"
+  - "[[Money]]"
+  - "[[Philosophy]]"
+  - "[[Programming]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]], [[Philosophy]], [[Programming]]
+
 # [[David Foster Wallace]]
 
 ---
@@ -90,7 +108,7 @@ tags:
   - Resource
 Index: 
 Topic:
-  - "[[The Archive Eternal]]"
+  - "[[6 - Elryan The Explorer/The Wizard/The Archive Eternal/Concepts/The Archive Eternal]]"
 Link: 
 Status: Unweathered
 Published: true
@@ -635,7 +653,7 @@ Adam and I had a conversation on [[2025-04-21 -  ADAM MIRI (texted and recorded 
 ![[The Arx Foundation（18）.png]]
 
 
-# [[Building a Better Future Through Business and AI Application]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application]]
 
 ---
 Date Created: 2025-04-27 18:37
@@ -811,7 +829,7 @@ In June, we will ask the top 24 teams to share their MVPs.
 
 
 
-# [[DOGE]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/DOGE]]
 
 ---
 Date Created: 2025-04-18 22:40
@@ -859,7 +877,7 @@ https://archive.is/RZJBm
 
 
 
-# [[Youtube Support]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Youtube Support]]
 
 ---
 Date Created: 2025-04-17 15:37
@@ -951,7 +969,7 @@ With our backups, provide security feed for users of the vault their data is in
 
 
 
-# [[The Human Library]]
+# [[6 - Elryan The Explorer/The Creostic/The Archive Eternal (Business)/The Human Library]]
 
 ---
 Date Created: 2025-04-26 17:35
@@ -977,7 +995,7 @@ Archivist movements like the wayback machine and internet archive are very inspi
 
 Similarly, the concept of being able to converse with people from the past is SOOOOO interesting for me. Now out of any time in our history we have the tools to do so (pseudo-conversationalist) via LLM and the archival of ones notes, words, and in a sense their essence and personality.
 
-[[Steve jobs]] had a similar desire, to speak with aristotle. I want to make that a reality. On the same vein, I think through his notes Jobs could be the first candidate for something like this, essentially akin to a GPT of him (as I'm sure someone has already made) but training specifically on all of his data.
+[[Steve Jobs]] had a similar desire, to speak with aristotle. I want to make that a reality. On the same vein, I think through his notes Jobs could be the first candidate for something like this, essentially akin to a GPT of him (as I'm sure someone has already made) but training specifically on all of his data.
 
 Taking it further, I feel the need to catalogue and honor every human life.
 
@@ -1001,7 +1019,7 @@ Names:
 
 
 [[Steve Jobs]]
-[[The Archive Eternal]]
+[[6 - Elryan The Explorer/The Wizard/The Archive Eternal/Concepts/The Archive Eternal]]
 
 
 
@@ -1012,7 +1030,7 @@ Date Created: 2025-04-18 07:19
 Last Updated: 2025-04-18 07:19
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -1354,7 +1372,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 #### Follow / Support
 
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
+- 🛍️ Shop at [Hopefully Abysmal](3%20-%20Indexes/Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
@@ -1424,7 +1442,7 @@ Idea for initial monetization:
 
 - Make learning fun / whimsical / a journey one _wants_ to pursue; not just something someone HAS to pursue to survive (what it seems to be now; the uneducated are not truly living IMO; need to save em).
 				- Integrate with activity-hub; I fw it heavy cause it tells monopolies to fuck off
-		- [[homelessness]]
+		- [[5 - Journal/Thoughts/homelessness]]
 
 
 ## [[2025-04-16 (dane weinig conversation)]]
@@ -2502,7 +2520,7 @@ Bii the Future seeks to empower individuals with tools for internet self-censors
 
 Tags: #Business 
 
-Paths: [[Cracked Ideas]]
+Paths: [[3 - Indexes/Cracked Ideas]]
 
 """ 
 This is where the oligarchic "influence" shows. Ever wonder why Firefox blocks "fixes"? 90% of their funding comes from Google (and the up-the-ladder 'cult' that puppet-strings them). Any search engine which no longer supports FULL REGEX (_,-,,~,AND,OR,NOT, parans) is not a search engine at all; it's a filter, a censoring, a blocking, a de-sovereigning, an obfuscator, a used car sales[wo/]man, a politiCIAn. Apparently, you have no longer got the right to ask questions as you wish, and thus, that prevents you from getting answers that Google missed in deleting, deplatforming, re-routing to WHO/WEF/CIA. That sovereign was already owned, and YOU, are too, as a miniscule corporate entity... a tiny debt payment to the bankers for being allowed to live in fantasyland.
@@ -2562,14 +2580,14 @@ Author: Landon
 **Focus:** Word censorship / redaction tool for cognitive filtering
 
 ### 🔧 Core Setup
-- [x] Basic Firefox extension scaffold created
-- [x] `manifest.json` configured with content script + popup
-- [x] `contentScript.js` written to censor user-defined terms
-- [x] `popup.html` created to manage blocklist
-- [x] `README.md` drafted with install/use instructions
+- [x] Basic Firefox extension scaffold created #archived
+- [x] `manifest.json` configured with content script + popup #archived
+- [x] `contentScript.js` written to censor user-defined terms #archived
+- [x] `popup.html` created to manage blocklist #archived
+- [x] `README.md` drafted with install/use instructions #archived
 
 ### 🎨 Branding & Aesthetics
-- [x] Flat minimalist bee icon within hexagon created
+- [x] Flat minimalist bee icon within hexagon created #archived
 - [ ] Export icon to `.ico`, `.png`, and `.svg` for cross-platform use
 - [ ] Add icon to `manifest.json` in correct size(s)
 
@@ -2664,15 +2682,15 @@ Author:
 **Focus:** Contextual language replacement or auto-translation using LibreTranslate
 
 ### 🔧 Core Setup
-- [x] Basic Firefox extension scaffold created
-- [x] `manifest.json` configured for scripting and storage
-- [x] `popup.html` for adding translation pairs + toggle for API mode
-- [x] `contentScript.js` handles both local replacement and LibreTranslate
-- [x] LibreTranslate integration implemented (manual & auto mode)
-- [x] `README.md` documents API and usage
+- [x] Basic Firefox extension scaffold created #archived
+- [x] `manifest.json` configured for scripting and storage #archived
+- [x] `popup.html` for adding translation pairs + toggle for API mode #archived
+- [x] `contentScript.js` handles both local replacement and LibreTranslate #archived
+- [x] LibreTranslate integration implemented (manual & auto mode) #archived
+- [x] `README.md` documents API and usage #archived
 
 ### 🎨 Branding & Aesthetics
-- [x] Minimalist interphase-inspired icon (cell + nucleus + chromatin)
+- [x] Minimalist interphase-inspired icon (cell + nucleus + chromatin) #archived
 - [ ] Export icon to `.ico`, `.png`, and `.svg` for packaging
 - [ ] Add icon to `manifest.json`
 
@@ -2895,7 +2913,7 @@ Want to use cursor but don't want to pay for the pro pro mode with unlimited shi
 
 Converstion prompting this: [[Architecture Planning]]
 
-[[ChatGPT]] Reformatting of all of that: 
+[[2 - Paths/ChatGPT]] Reformatting of all of that: 
 
 **Canvas Title: Obsidian-to-GitHub Issue Automation Pipeline**
 

@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 
 # Rebuttals to Common Failure Points in Educational Innovation V1:
 ## A SCOOL Perspective

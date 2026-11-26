@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Money]]"
+  - "[[Philosophy]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]], [[Philosophy]]
+
 # Me
 
 ~ Split [[Crypto Investing - More by Hangmeas]] into 4 parts to parse ~

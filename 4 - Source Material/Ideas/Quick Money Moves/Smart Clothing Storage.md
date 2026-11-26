@@ -4,8 +4,8 @@ Last Updated: 2025-03-24 12:28
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
-Topic: 
+  - "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 Published: false
 Author: Landon

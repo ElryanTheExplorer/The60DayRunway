@@ -19,16 +19,16 @@ Author:
 ## 🕒 Life Schedule
 
 - [ ] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
 		- [ ] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-	- [x] Drink something caffeinated 
-	- [x] Breakfast
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+	- [x] Drink something caffeinated #archived
+	- [x] Breakfast #archived
 - [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [ ] Do a chore (dish/laundry/trash/etc.)

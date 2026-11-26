@@ -4,13 +4,18 @@ Last Updated: 2025-03-28 01:15
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
+  - "[[3 - Indexes/Cracked Ideas]]"
 Topic:
   - Artificial Intelligence
+  - "[[Programming]]"
+  - "[[Machine Learning]]"
+  - "[[Money]]"
 Status: Unweathered
 Published: false
 ---
 ---
+
+Themes: [[Programming]], [[Machine Learning]], [[Money]]
 
 
 Locally processed

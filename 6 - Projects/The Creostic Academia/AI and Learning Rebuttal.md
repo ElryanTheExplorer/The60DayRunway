@@ -6,11 +6,17 @@ tags:
 Index: 
 Topic:
   - "[[Veritasium What Everyone Gets Wrong About AI and Learning - Derek Muller Explains]]"
+  - "[[Money]]"
+  - "[[Philosophy]]"
+  - "[[Statistics]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]], [[Philosophy]], [[Statistics]]
+
 # Summary:
 
 
@@ -3592,7 +3598,7 @@ Let me know when you’re ready with Part 3, or if you want to translate this se
 
 ## Me
 
-For now I need to go back and re-think my ELI5 explanation of what we're trying to do here. Please assist. Synopsis: DSWM and KOI for actual implementation, SCOOL as frontend platform for user perusal of content and learning journey management, and ALTs for learning and comprehension assistance. From the initial application: [[Building a Better Future Through Business and AI Application]]
+For now I need to go back and re-think my ELI5 explanation of what we're trying to do here. Please assist. Synopsis: DSWM and KOI for actual implementation, SCOOL as frontend platform for user perusal of content and learning journey management, and ALTs for learning and comprehension assistance. From the initial application: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application]]
 
 However I think we've changed things enough to require an updated explanation. TLDR my mom and family are confused because they are not in tech nor academia;; how do I communicate to the general public that this is something that they need?? My thoughts from a prior conversation: 
 

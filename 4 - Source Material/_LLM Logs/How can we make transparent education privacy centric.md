@@ -4,12 +4,18 @@ Last Updated: "2025-05-04 13:22"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Philosophy]]"
+  - "[[Money]]"
+  - "[[Statistics]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 	---
+
+Themes: [[Philosophy]], [[Money]], [[Statistics]]
+
 # Summary:
 
 

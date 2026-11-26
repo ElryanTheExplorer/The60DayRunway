@@ -23,48 +23,48 @@ The goal: make ~$500k of money I can own in ~60 days (or at least get my income 
 # Shit I need to do today:
 
 ## Schedule
-- [x] Make a to-do list
-- [x] Morning Routine
+- [x] Make a to-do list #archived
+- [x] Morning Routine #archived
 	- [ ] brush teeth (forgot this fuck)
-	- [x] take meds
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-		- [x] Good old matcha my beloved
-- [x] Check SNAP
-- [x] Finish breakfast
-- [x] finish dishes
-- [x] take out trash
-- [x] put up clothes
-- [x] Eat Lunch (3pm) ((finished breakfast lmaooo))
-- [x] transfer zettelkasten ideas over to source material folder
-	- [x] Sort into now and later ideas (modified to just sorting; you can see for yourself how it is)
-		- [x] Never say it can't happen unless it shouldn't
-		- [x] Filter said ideas for personal information
-			- [x] Pulled some back to filter later
-- [x] Post this on repo
-	- [x] make hopefullyabysmal github account
-	- [x] ReadMe
-		- [x] Links to everything
+	- [x] take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+		- [x] Good old matcha my beloved #archived
+- [x] Check SNAP #archived
+- [x] Finish breakfast #archived
+- [x] finish dishes #archived
+- [x] take out trash #archived
+- [x] put up clothes #archived
+- [x] Eat Lunch (3pm) ((finished breakfast lmaooo)) #archived
+- [x] transfer zettelkasten ideas over to source material folder #archived
+	- [x] Sort into now and later ideas (modified to just sorting; you can see for yourself how it is) #archived
+		- [x] Never say it can't happen unless it shouldn't #archived
+		- [x] Filter said ideas for personal information #archived
+			- [x] Pulled some back to filter later #archived
+- [x] Post this on repo #archived
+	- [x] make hopefullyabysmal github account #archived
+	- [x] ReadMe #archived
+		- [x] Links to everything #archived
 	- [ ] Quartz webhosting on hopefullyabysmal.github.io
-	- [x] throw url on my watch for people to scan
-- [x] Take dogs out 
-	- [x] 2:09pm 
-	- [x] 4:00 pm (4:30, running late and running out of steam)
-- [x] Go get groceries (4:30pm)
-	- [x] Can only afford milk and hot chip so thats all you get (SNAP tmrw)
-- [x] Shower
-- [x] Write speech for later
-	- [x] Just think about it at least.
-- [x] Go to movie with friends (6:10pm)
-- [x] Dinner with Adam and team (8pm)
+	- [x] throw url on my watch for people to scan #archived
+- [x] Take dogs out #archived
+	- [x] 2:09pm #archived
+	- [x] 4:00 pm (4:30, running late and running out of steam) #archived
+- [x] Go get groceries (4:30pm) #archived
+	- [x] Can only afford milk and hot chip so thats all you get (SNAP tmrw) #archived
+- [x] Shower #archived
+- [x] Write speech for later #archived
+	- [x] Just think about it at least. #archived
+- [x] Go to movie with friends (6:10pm) #archived
+- [x] Dinner with Adam and team (8pm) #archived
 
 ## Throughout Day
 - [ ] drink entire water bottle (throughout day) 
-- [x] Take dogs out (if you didn't see it above mf)
+- [x] Take dogs out (if you didn't see it above mf) #archived
 
 ---
 

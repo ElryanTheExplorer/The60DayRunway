@@ -4,12 +4,17 @@ Last Updated: "2025-05-27 22:35"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Introspection]]"
+  - "[[Connection]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Introspection]], [[Connection]]
+
 # Summary:
 
 

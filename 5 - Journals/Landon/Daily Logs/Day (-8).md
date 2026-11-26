@@ -16,23 +16,23 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
 		- [ ] straterra (still staying off it, the rest of everything is really doing it for me; saving it for when I NEED it.)
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-	- [x] Drink something green and holy (Good old matcha my beloved)  
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+	- [x] Drink something green and holy (Good old matcha my beloved) #archived
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something (yes, that counts)
-	- [x] Ate an egg sandwich :dance:
-- [x] Do a chore (dish/laundry/trash/etc.)
-	- [x] Trash run
-- [x] Handle pet care / errands / groceries  
+- [x] Eat something (yes, that counts) #archived
+	- [x] Ate an egg sandwich :dance: #archived
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+	- [x] Trash run #archived
+- [x] Handle pet care / errands / groceries #archived
 	- [ ] Took Ares out at 12:20, Nala before I go to group proj meeting
 - [ ] Go to store for groceries
 - [ ] Shower (for the love of all that is sacred)
@@ -50,9 +50,9 @@ Author:
 ## 🤑Work Schedule
 
   
-- [x] Finish Translation [[2025-04-18 (handwritten notes)]]
-- [x] Group project busywork (2-4pm)
-	- [x] Get list of injection molding shit for mike
+- [x] Finish Translation [[2025-04-18 (handwritten notes)]] #archived
+- [x] Group project busywork (2-4pm) #archived
+	- [x] Get list of injection molding shit for mike #archived
 - [ ] Take and Record myers-briggs aptitude test (need before friday for career counseling)
 	- [ ] Reach out to myers-briggs // look into the tech they use for aptitude testing, quite ingenious tbh
 - [ ] Push [[Consolidated_Notes (2025-04-21)|all ideas]] to gpt to make long-term plan
@@ -66,9 +66,9 @@ Author:
 		- [ ] Code something to copy paste the unchecked from the last days work schedule to auto update the template for next day?
 - [ ] If time permits - Fix my fuckn split keeb mounts
 - [ ] Post updates or progress  
-	- [x] Push to repo / update site  
+	- [x] Push to repo / update site #archived
 	- [ ] Update socials / links
-- [x] Quartz webhosting on hopefullyabysmal.github.io (dude this is getting pushed off so much lmaoooo; sadly its just a convenience thing that is low priority, culling to misc. ideas and renaming to misc. tasks)
+- [x] Quartz webhosting on hopefullyabysmal.github.io (dude this is getting pushed off so much lmaoooo; sadly its just a convenience thing that is low priority, culling to misc. ideas and renaming to misc. tasks) #archived
 
 ---
 

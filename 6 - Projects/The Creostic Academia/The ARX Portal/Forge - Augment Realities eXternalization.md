@@ -5,12 +5,16 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Philosophy]]"
+  - "[[Architecture]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Philosophy]], [[Architecture]]
 
 > _Manifest your inner vision — build, remix, publish._
 

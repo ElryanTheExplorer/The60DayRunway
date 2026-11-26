@@ -1,7 +1,8 @@
 ---
 Date Created: 2025-04-15 15:22
 Last Updated: 2025-04-15 15:22
-tags: 
+tags:
+  - Area
 Index: 
 Topic: 
 Status: Unweathered

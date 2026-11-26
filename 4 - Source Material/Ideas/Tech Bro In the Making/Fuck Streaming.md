@@ -1,7 +1,8 @@
 ---
 Date Created: "2025-03-11 20:53"
 Last Updated: "2025-03-11 20:53"
-tags: 
+tags:
+  - Resource
 Index: 
 Topic: 
 Status: Unweathered

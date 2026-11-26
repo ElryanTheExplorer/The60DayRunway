@@ -4,12 +4,16 @@ Last Updated: 2025-04-20 12:55
 tags:
   - Project
 Index: "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Mechanical Engineering]]"
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Mechanical Engineering]], [[Philosophy]]
 
 **Public Title: Harnessing Entropy: A Thermodynamic Framework for World Peace and Energy Abundance**
 **~ Internal Title: The ARX Manifesto ~** 

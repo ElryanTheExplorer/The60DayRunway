@@ -5,13 +5,18 @@ tags:
   - Belief
 Index:
   - "[[Journals]]"
-Topic: 
+Topic:
+  - "[[Programming]]"
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
   - "[[Landon Dahle]]"
 ---
 ---
+
+Themes: [[Programming]], [[Philosophy]]
+
 # *** DISCLAIMER: READ THE [[_README (b4 reading beliefs)|README]] ON MY BELIEFS BEFORE PERUSING ***
 
 ---

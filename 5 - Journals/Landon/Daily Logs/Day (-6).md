@@ -22,11 +22,11 @@ Author: Landon
 	- [ ] Brush teeth  
 	- [ ] Take meds  
 		- [ ] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (Good old matcha my beloved)  
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [ ] Eat something (yes, that counts)
@@ -46,9 +46,9 @@ Author: Landon
 
 ## 🤑Work Schedule
 
-- [x] manually sort the consolidated notes (stop being a lazy fuck)
-	- [x] Pull specifically the funding stuff to one note and parse for the following:
-	- [x] Overall ARX Portal Business Plan (for AI comp and grant)
+- [x] manually sort the consolidated notes (stop being a lazy fuck) #archived
+	- [x] Pull specifically the funding stuff to one note and parse for the following: #archived
+	- [x] Overall ARX Portal Business Plan (for AI comp and grant) #archived
 - [ ] Apply for meloy innovator's grant ($2k)
 	- [ ] BII and Interphrase prototype
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]

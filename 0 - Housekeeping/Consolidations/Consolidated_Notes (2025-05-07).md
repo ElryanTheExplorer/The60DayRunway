@@ -1,3 +1,21 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Area
+Index: 
+Topic:
+  - "[[Housekeeping]]"
+  - "[[Money]]"
+  - "[[Programming]]"
+  - "[[Philosophy]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]], [[Programming]], [[Philosophy]]
+
 # [[All you need is links - Gordon Brander]]
 
 ---
@@ -481,7 +499,7 @@ Some ALT Examples to spur ideation:
 ### Follow / Support
 
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
+- 🛍️ Shop at [Hopefully Abysmal](3%20-%20Indexes/Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
@@ -969,7 +987,7 @@ Date Created: 2025-04-17 11:40
 Last Updated: 2025-04-17 11:40
 tags:
   - Resource
-Index: "[[Interviews]]"
+Index: "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/3 - Indexes/Interviews]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -1161,7 +1179,7 @@ tags:
   - Resource
 Index: 
 Topic:
-  - "[[The Archive Eternal]]"
+  - "[[6 - Elryan The Explorer/The Wizard/The Archive Eternal/Concepts/The Archive Eternal]]"
 Link: 
 Status: Unweathered
 Published: true
@@ -1787,7 +1805,7 @@ Date Created: 2025-04-04 11:06
 Last Updated: 2025-04-17 11:06
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: false
@@ -1804,7 +1822,7 @@ Love me some good economic concepts like idealist capitalism, the library econom
 > Perhaps the concept of communal socialism? That being small communities that own means of production for their own product/service/subsidy? Akin to hunger games but actually cool lmao
 
 Im trying my hand at making some myself:
-- [[The Human Library]]
+- [[6 - Elryan The Explorer/The Creostic/The Archive Eternal (Business)/The Human Library]]
 - [[The Library Economy]]
 - [[Creation, Time, and Impact Based Economy]]
 - [[The Commune]] 
@@ -3079,12 +3097,12 @@ Last Updated: 2025-05-06 11:28
 tags:
   - Project
 Index:
-  - "[[Hopefully Abysmal]]"
+  - "[[3 - Indexes/Hopefully Abysmal]]"
 Topic: 
 Status: Unweathered
 Published: true
 Author:
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
   - "[[Landon Dahle]]"
 ---
 ---
@@ -3179,7 +3197,7 @@ If you need assistance with any of these steps or have further questions about o
 
 
 
-# [[Building a Better Future Through Business and AI Application]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application]]
 
 ---
 Date Created: 2025-04-27 18:37
@@ -3659,7 +3677,7 @@ In June, we will ask the top 24 teams to share their MVPs.
 
 
 
-# [[DOGE]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/DOGE]]
 
 ---
 Date Created: 2025-04-18 22:40
@@ -3713,7 +3731,7 @@ https://archive.is/RZJBm
 
 
 
-# [[SCOOL Pitch Ideation]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/SCOOL Pitch Ideation]]
 
 ---
 Date Created: "2025-05-06 15:00"
@@ -3734,7 +3752,7 @@ Relevant chat: [[Making SCOOL Cool (Problem statement ideation and selling point
 
 
 
-# [[The Funding Ask]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/The Funding Ask]]
 
 ---
 Date Created: 2025-05-02 20:16
@@ -3854,7 +3872,7 @@ _Landon Dahle_
 
 
 
-# [[Youtube Support]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Youtube Support]]
 
 ---
 Date Created: 2025-04-17 15:37
@@ -3953,7 +3971,7 @@ With our backups, provide security feed for users of the vault their data is in
 
 
 
-# [[The Human Library]]
+# [[6 - Elryan The Explorer/The Creostic/The Archive Eternal (Business)/The Human Library]]
 
 ---
 Date Created: 2025-04-26 17:35
@@ -3979,7 +3997,7 @@ Archivist movements like the wayback machine and internet archive are very inspi
 
 Similarly, the concept of being able to converse with people from the past is SOOOOO interesting for me. Now out of any time in our history we have the tools to do so (pseudo-conversationalist) via LLM and the archival of ones notes, words, and in a sense their essence and personality.
 
-[[Steve jobs]] had a similar desire, to speak with aristotle. I want to make that a reality. On the same vein, I think through his notes Jobs could be the first candidate for something like this, essentially akin to a GPT of him (as I'm sure someone has already made) but training specifically on all of his data.
+[[Steve Jobs]] had a similar desire, to speak with aristotle. I want to make that a reality. On the same vein, I think through his notes Jobs could be the first candidate for something like this, essentially akin to a GPT of him (as I'm sure someone has already made) but training specifically on all of his data.
 
 Taking it further, I feel the need to catalogue and honor every human life.
 
@@ -4003,7 +4021,7 @@ Names:
 
 
 [[Steve Jobs]]
-[[The Archive Eternal]]
+[[6 - Elryan The Explorer/The Wizard/The Archive Eternal/Concepts/The Archive Eternal]]
 
 
 
@@ -4014,7 +4032,7 @@ Date Created: 2025-04-18 07:19
 Last Updated: 2025-04-18 07:19
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -4373,7 +4391,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 #### Follow / Support
 
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
+- 🛍️ Shop at [Hopefully Abysmal](3%20-%20Indexes/Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
@@ -4479,7 +4497,7 @@ Idea for initial monetization:
 				- Discord // matrix // IRC integration in Pine64 dev server as example
 				- Integrate with activity-hub; I fw it heavy cause it tells monopolies to fuck off
 	- Symptoms of an individualist economy include but are not limited to:
-		- [[homelessness]]
+		- [[5 - Journal/Thoughts/homelessness]]
 		- Debt (without the intent of leveraging it)
 		- Crime
 		- Gatekeeping information
@@ -4981,7 +4999,7 @@ Date Created: 2025-04-17 13:50
 Last Updated: 2025-04-17 13:50
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -5020,7 +5038,7 @@ Last Updated: "2025-03-24 15:10"
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
+  - "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: false
@@ -5106,7 +5124,7 @@ Last Updated: "2025-03-24 15:10"
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
+  - "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: false
@@ -5143,7 +5161,7 @@ Topic:
 Status: Unweathered
 Published: true
 Author:
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
 ---
 ---
 ### **1. DAO Structuring**
@@ -5951,7 +5969,7 @@ Akin to DOI, ContentID, SSID, and the basic URL, everything and everyone needs t
 
 
 
-# [[Creosticism]]
+# [[6 - Elryan The Explorer/The Creostic/Creosticism]]
 
 ---
 Date Created: 2025-04-20 14:29
@@ -6083,7 +6101,7 @@ Date Created: 2025-04-17 13:51
 Last Updated: 2025-04-17 13:51
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -6116,7 +6134,7 @@ Focus centered interface
 
 
 
-# [[Impact Compensation Methodologies and Mechanisms]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms]]
 
 ---
 Date Created: 2025-05-03 21:33
@@ -6825,7 +6843,7 @@ Would you like a diagram of the architecture or a phased implementation roadmap 
 
 I would like to reframe the consumption quotas to "engagement quotas", or even "attendance quotas". For now lets just integrate into my proposal please: 
 
-Copy paste: [[Building a Better Future Through Business and AI Application]]
+Copy paste: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application]]
 
 
 
@@ -7441,7 +7459,7 @@ Bii the Future seeks to empower individuals with tools for internet self-censors
 
 Tags: #Business 
 
-Paths: [[Cracked Ideas]]
+Paths: [[3 - Indexes/Cracked Ideas]]
 
 """ 
 This is where the oligarchic "influence" shows. Ever wonder why Firefox blocks "fixes"? 90% of their funding comes from Google (and the up-the-ladder 'cult' that puppet-strings them). Any search engine which no longer supports FULL REGEX (_,-,,~,AND,OR,NOT, parans) is not a search engine at all; it's a filter, a censoring, a blocking, a de-sovereigning, an obfuscator, a used car sales[wo/]man, a politiCIAn. Apparently, you have no longer got the right to ask questions as you wish, and thus, that prevents you from getting answers that Google missed in deleting, deplatforming, re-routing to WHO/WEF/CIA. That sovereign was already owned, and YOU, are too, as a miniscule corporate entity... a tiny debt payment to the bankers for being allowed to live in fantasyland.
@@ -7501,14 +7519,14 @@ Author: Landon
 **Focus:** Word censorship / redaction tool for cognitive filtering
 
 ### 🔧 Core Setup
-- [x] Basic Firefox extension scaffold created
-- [x] `manifest.json` configured with content script + popup
-- [x] `contentScript.js` written to censor user-defined terms
-- [x] `popup.html` created to manage blocklist
-- [x] `README.md` drafted with install/use instructions
+- [x] Basic Firefox extension scaffold created #archived
+- [x] `manifest.json` configured with content script + popup #archived
+- [x] `contentScript.js` written to censor user-defined terms #archived
+- [x] `popup.html` created to manage blocklist #archived
+- [x] `README.md` drafted with install/use instructions #archived
 
 ### 🎨 Branding & Aesthetics
-- [x] Flat minimalist bee icon within hexagon created
+- [x] Flat minimalist bee icon within hexagon created #archived
 - [ ] Export icon to `.ico`, `.png`, and `.svg` for cross-platform use
 - [ ] Add icon to `manifest.json` in correct size(s)
 
@@ -7603,15 +7621,15 @@ Author:
 **Focus:** Contextual language replacement or auto-translation using LibreTranslate
 
 ### 🔧 Core Setup
-- [x] Basic Firefox extension scaffold created
-- [x] `manifest.json` configured for scripting and storage
-- [x] `popup.html` for adding translation pairs + toggle for API mode
-- [x] `contentScript.js` handles both local replacement and LibreTranslate
-- [x] LibreTranslate integration implemented (manual & auto mode)
-- [x] `README.md` documents API and usage
+- [x] Basic Firefox extension scaffold created #archived
+- [x] `manifest.json` configured for scripting and storage #archived
+- [x] `popup.html` for adding translation pairs + toggle for API mode #archived
+- [x] `contentScript.js` handles both local replacement and LibreTranslate #archived
+- [x] LibreTranslate integration implemented (manual & auto mode) #archived
+- [x] `README.md` documents API and usage #archived
 
 ### 🎨 Branding & Aesthetics
-- [x] Minimalist interphase-inspired icon (cell + nucleus + chromatin)
+- [x] Minimalist interphase-inspired icon (cell + nucleus + chromatin) #archived
 - [ ] Export icon to `.ico`, `.png`, and `.svg` for packaging
 - [ ] Add icon to `manifest.json`
 
@@ -12026,7 +12044,7 @@ flowchart TD
 
 
 
-# [[Intro to The DSWM Tech Stack]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The DSWM/Intro to The DSWM Tech Stack]]
 
 ---
 Date Created: 2025-05-06 10:52
@@ -12039,7 +12057,7 @@ Topic:
 Status: Unweathered
 Published: true
 Author:
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
   - "[[Landon Dahle]]"
 ---
 ---
@@ -12230,7 +12248,7 @@ Want to use cursor but don't want to pay for the pro pro mode with unlimited shi
 
 Converstion prompting this: [[Architecture Planning]]
 
-[[ChatGPT]] Reformatting of all of that: 
+[[2 - Paths/ChatGPT]] Reformatting of all of that: 
 
 **Canvas Title: Obsidian-to-GitHub Issue Automation Pipeline**
 
@@ -12405,7 +12423,7 @@ Date Created: 2025-04-17 16:29
 Last Updated: 2025-04-17 16:29
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true

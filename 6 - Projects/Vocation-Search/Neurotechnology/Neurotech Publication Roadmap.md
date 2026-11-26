@@ -1,3 +1,20 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+  - "[[Philosophy]]"
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]], [[Philosophy]], [[Money]]
+
 Comprehensive roadmap for publication topics—designed around your current expertise, interests (Creosticism, system design, education reform, etc.), and constraints (no PhD, but lots of domain overlap and tool-building skill). The list includes:
 
 - **Core publication series** (your flagship trilogy)

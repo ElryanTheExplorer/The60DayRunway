@@ -16,24 +16,24 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
 		- [ ] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (Good old matcha my beloved)  
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something (yes, that counts)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
-- [x] Shower (for the love of all that is sacred)
+- [x] Eat something (yes, that counts) #archived
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
+- [x] Shower (for the love of all that is sacred) #archived
 - [ ] Reflect / prep for public speaking / writing
-- [x] Go outside (optionally with friends)
+- [x] Go outside (optionally with friends) #archived
 - [ ] Dinner or evening wind-down
 
 ## 🌱 Throughout Day
@@ -45,13 +45,13 @@ Author:
 
 ## 🤑Work Schedule
 
-- [x] Finish cleaning
-	- [x] Workstation
-	- [x] Closet
+- [x] Finish cleaning #archived
+	- [x] Workstation #archived
+	- [x] Closet #archived
 		- [ ] Fix 3d printer (might just leave it, no time. I want to buy a bambu but hear shit abt their cybersecurity being mid so eh;; will just jailbreak it if need be... the tech itself is dope, some people just don't know how to run an ethical and secure business lmao // famous last words :clown:)
-		- [x] put up pen plotter
+		- [x] put up pen plotter #archived
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
-	- [x] Transfer ideas / organize files (none new to translate today)
+	- [x] Transfer ideas / organize files (none new to translate today) #archived
 - [ ] Push all ideas to gpt to make long-term plan
 	- [ ] Decide what to do next (just fuckn code already)
 - [ ] Filter personal info to upload (culling this to misc Ideas, not in scope as of now; maybe in free time)

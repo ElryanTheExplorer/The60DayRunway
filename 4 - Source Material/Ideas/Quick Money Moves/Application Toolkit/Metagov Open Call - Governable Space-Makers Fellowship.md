@@ -3,11 +3,16 @@ Date: 2025-01-27 17:36
 tags:
   - Unfinished
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
+  - "[[Biomedical Engineering]]"
+  - "[[Machine Learning]]"
 Status: Unweathered
 Author: Landon
 ---
 ---
+
+Themes: [[Programming]], [[Biomedical Engineering]], [[Machine Learning]]
 
 https://metagov.org/join/jobs/governable-space-makers-fellowship
 https://tally.so/r/m6rzXo

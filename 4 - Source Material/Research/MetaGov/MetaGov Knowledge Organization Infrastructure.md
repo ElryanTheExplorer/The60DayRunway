@@ -4,12 +4,16 @@ Last Updated: "2025-04-27 15:56"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]]
+
 # Summary:
 Knowledge Organization Infrastructure initiative run by MetaGov in collaboration with Blockscience earlier this year. I need to catch up lmao
 

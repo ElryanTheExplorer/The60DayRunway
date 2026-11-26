@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 Apparently as fitbit was acquired by google, google's enshittification continues on! They have yet to and will not be releasing an SDK for Sense 2 and Versa 4. As such my hand is forced to use the following: 'https://github.com/cmengler/fitbit-app-versa4/tree/main' an unofficial sideloading strategy.
 
 ## The Ways of the sideload (differentiations using windows)

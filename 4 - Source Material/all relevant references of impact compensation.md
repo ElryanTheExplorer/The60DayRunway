@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Money]]"
+  - "[[Machine Learning]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]], [[Machine Learning]]
+
 Innovator != creator -> make it a creator pump.
 	Creation != productization; anything that can make an impact is a worthy creation
 		i.e. art, media, writing, lower-level non-automatable labour (all still have an impact and move society forward thus are noble pursuits we should encourage if the student is a good fit for it.)

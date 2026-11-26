@@ -12,5 +12,5 @@ Author:
 ---
 ---
 
-- [x] Quartz webhosting on hopefullyabysmal.github.io
-	- [x] vault.hopefullyabysmal.com instead :)
+- [x] Quartz webhosting on hopefullyabysmal.github.io #archived
+	- [x] vault.hopefullyabysmal.com instead :) #archived

@@ -4,11 +4,16 @@ Last Updated: 2025-04-18 22:57
 tags:
   - Archive
 Index: "[[Journals]]"
+Topic:
+  - "[[Philosophy]]"
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author: Landon
 ---
 ---
+
+Themes: [[Philosophy]], [[Programming]]
 
 Couldn't sleep in; woke up hella early. Uploading the raws of this then am crashing for tonight lmao.
 

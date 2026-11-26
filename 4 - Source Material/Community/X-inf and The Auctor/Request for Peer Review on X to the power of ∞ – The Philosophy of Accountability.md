@@ -4,12 +4,18 @@ Last Updated: "2025-05-08 10:29"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Statistics]]"
+  - "[[Philosophy]]"
+  - "[[Architecture]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Statistics]], [[Philosophy]], [[Architecture]]
+
 # Summary: (copy pasting readme)
 **Repository:** [Xtothepowerofinfinity/Philosophie_der_Verantwortung](https://github.com/Xtothepowerofinfinity/Philosophie_der_Verantwortung)
 

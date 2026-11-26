@@ -4,12 +4,17 @@ Last Updated: "2025-04-30 10:56"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Mechanical Engineering]]"
+  - "[[Philosophy]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Mechanical Engineering]], [[Philosophy]]
+
 # Summary:
 
 

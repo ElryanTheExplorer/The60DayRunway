@@ -1,15 +1,22 @@
 ---
 Date Created: "2025-06-14 18:32"
 Last Updated: "2025-06-14 18:32"
-tags: 
+tags:
+  - Project
 Index: 
-Topic: 
+Topic:
+  - "[[Philosophy]]"
+  - "[[Mechanical Engineering]]"
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author: 
 aliases:
 ---
 ---
+
+Themes: [[Philosophy]], [[Mechanical Engineering]], [[Programming]]
+
 # Sub-domains
 ### 🜁 Exploratory & Signature
 

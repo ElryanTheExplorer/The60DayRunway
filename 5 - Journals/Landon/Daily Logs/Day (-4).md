@@ -16,16 +16,16 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
 		- [ ] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (Good old matcha my beloved)  
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [ ] Eat something (yes, that counts)
@@ -45,15 +45,15 @@ Author:
 
 ## 🤑Work Schedule
 
-- [x] Draft [[Funding Cycle for Open Access Education.canvas|visual canvas for funding structure]]
-	- [x] https://www.are.na/block/36269840
-	- [x] [[Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas|V2 With Accelerative Learning Tools]]
-- [x] Apply for meloy innovator's grant ($2k)
-- [x] Adjust templates
-	- [x] Fix error caused by MGIT misutilization
-	- [x] Remove redundant work schedule stuff from to-do
+- [x] Draft [[Funding Cycle for Open Access Education.canvas|visual canvas for funding structure]] #archived
+	- [x] https://www.are.na/block/36269840 #archived
+	- [x] [[Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas|V2 With Accelerative Learning Tools]] #archived
+- [x] Apply for meloy innovator's grant ($2k) #archived
+- [x] Adjust templates #archived
+	- [x] Fix error caused by MGIT misutilization #archived
+	- [x] Remove redundant work schedule stuff from to-do #archived
 		- [ ] Code something to copy paste the unchecked from the last days work schedule to auto update the template for next day? (culling to misc. tasks; could do whole project on automated day planning)
-- [x] If time permits - Fix my fuckn split keeb mounts
+- [x] If time permits - Fix my fuckn split keeb mounts #archived
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
 - [ ] BII and Interphrase prototype
 - [ ] Push [[Consolidated_Notes (2025-04-21)|all ideas]] to gpt to make long-term plan
@@ -62,7 +62,7 @@ Author:
 	- [ ] Decide what to do next (just fuckn code already)
 - [ ] Post updates or progress  
 	- [ ] Push to repo / update site  
-	- [x] Update socials / links
+	- [x] Update socials / links #archived
 
 
 ---

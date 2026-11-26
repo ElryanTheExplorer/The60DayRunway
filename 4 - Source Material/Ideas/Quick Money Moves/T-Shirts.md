@@ -4,8 +4,8 @@ Last Updated: 2025-04-15 16:32
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
-Topic: 
+  - "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 Published: true
 Author: Landon
@@ -18,7 +18,7 @@ Author: Landon
 
 Tags: #Business 
 
-Paths: [[Cracked Ideas]]
+Paths: [[3 - Indexes/Cracked Ideas]]
 
 - CIA Declassified Concepts:
     - Project MK-Ultra

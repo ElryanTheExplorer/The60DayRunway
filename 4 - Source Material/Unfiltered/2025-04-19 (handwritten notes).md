@@ -4,11 +4,16 @@ Last Updated: "2025-04-19 10:44"
 tags:
   - Archive
 Index: "[[Journals]]"
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]]
+
 ONYX sync not workin lmao; going to just type up and scan in later
 
 Page 1:

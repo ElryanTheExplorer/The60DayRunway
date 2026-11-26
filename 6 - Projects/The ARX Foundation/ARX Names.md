@@ -1,11 +1,11 @@
 ---
-Date Created: "2025-03-24 15:10"
-Last Updated: "2025-03-24 15:10"
+Date Created: 2025-03-24 15:10
+Last Updated: 2025-03-24 15:10
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
-Topic: 
+  - "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 Published: false
 ---

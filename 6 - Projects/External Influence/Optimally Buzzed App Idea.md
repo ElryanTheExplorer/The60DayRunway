@@ -7,11 +7,16 @@ Index:
 Topic:
   - "[[Matthew B Davis]]"
   - "[[Anything In Moderation]]"
+  - "[[Money]]"
+  - "[[Programming]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]], [[Programming]]
+
 # Summary: [[Anything In Moderation]]
 
 

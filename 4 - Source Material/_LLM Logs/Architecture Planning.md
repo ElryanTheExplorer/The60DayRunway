@@ -4,12 +4,17 @@ Last Updated: "2025-04-20 22:20"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Machine Learning]]"
+  - "[[Programming]]"
+  - "[[Mechanical Engineering]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Machine Learning]], [[Programming]], [[Mechanical Engineering]]
 
 The following is going to be a LONG prompt; with everything I have written thus-far such that I can get organized whilst planning the architecture for the development of the platform. Strap in and enjoy the ride!!
 

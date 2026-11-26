@@ -6,11 +6,17 @@ tags:
 Index: 
 Topic:
   - "[[MetaGov Knowledge Organization Infrastructure]]"
+  - "[[Machine Learning]]"
+  - "[[Money]]"
+  - "[[Mechanical Engineering]]"
 Link: https://www.youtube.com/watch?v=zTaK09Lo94A
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Machine Learning]], [[Money]], [[Mechanical Engineering]]
+
 # Key Terms:
 
 

@@ -4,12 +4,15 @@ Last Updated: 2025-04-22 11:13
 tags:
   - Area
 Index: 
-Topic: 
+Topic:
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Philosophy]]
 
 See [[Philosophical Schools of Thought]] for how they could be integrated simultaniously.
 

@@ -4,8 +4,8 @@ Last Updated: 2025-03-20 13:27
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
-Topic: 
+  - "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 Published: false
 ---

@@ -4,12 +4,15 @@ Last Updated: 2025-04-17 15:37
 tags:
   - Project
 Index: "[[Outreach]]"
-Topic: 
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]]
 
 Support ticket I posted:
 

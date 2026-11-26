@@ -4,12 +4,16 @@ Last Updated: "2025-04-20 22:13"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]]
+
 Initial dive into RUST
 # Me
 

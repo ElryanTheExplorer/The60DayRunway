@@ -1,16 +1,21 @@
 ---
 Date Created: 2025-04-28 16:56
 Last Updated: 2025-04-28 16:56
-tags: 
+tags:
+  - Project
 Index:
   - "[[The ARX Index]]"
 Topic:
   - "[[Funding Cycle for Open Access Education.canvas|Funding Strategies for Open Access Education]]"
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]]
+
 ```mermaid
 flowchart TD
     %% Group 1: Revenue Sources

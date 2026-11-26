@@ -3,8 +3,8 @@ Date Created: 2025-04-17 11:40
 Last Updated: 2025-04-17 11:40
 tags:
   - Resource
-Index: "[[Interviews]]"
-Topic: 
+Index: "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/3 - Indexes/Interviews]]"
+Topic:
 Status: Unweathered
 Published: true
 Author:

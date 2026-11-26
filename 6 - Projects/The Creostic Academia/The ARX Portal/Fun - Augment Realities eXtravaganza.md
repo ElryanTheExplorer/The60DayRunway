@@ -5,12 +5,15 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Machine Learning]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Machine Learning]]
 
 > _Playful engagement with knowledge — gamified, vibrant, joyful._
 

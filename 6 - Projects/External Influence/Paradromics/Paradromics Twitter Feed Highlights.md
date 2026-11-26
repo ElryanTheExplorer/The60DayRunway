@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[2 - Paths/Computational Neuroscience]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[2 - Paths/Computational Neuroscience]]
+
 ### 🔥 Top-Tier Tweets for Podcast Fuel
 
 #### 🧠 1. **Clinical Power & Signal Stability**

@@ -1,14 +1,20 @@
 ---
 Date Created: 2025-04-21 09:34
 Last Updated: 2025-04-26 09:34
-tags: 
+tags:
+  - Area
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
+  - "[[Programming]]"
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]], [[Programming]], [[Philosophy]]
 
 # [[license]]
 
@@ -202,7 +208,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 ### Follow / Support
 
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
+- 🛍️ Shop at [Hopefully Abysmal](3%20-%20Indexes/Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
@@ -222,7 +228,7 @@ Date Created: 2025-04-17 11:40
 Last Updated: 2025-04-17 11:40
 tags:
   - Resource
-Index: "[[Interviews]]"
+Index: "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/3 - Indexes/Interviews]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -566,7 +572,7 @@ Date Created: 2025-04-04 11:06
 Last Updated: 2025-04-17 11:06
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: false
@@ -583,7 +589,7 @@ Love me some good economic concepts like idealist capitalism, the library econom
 > Perhaps the concept of communal socialism? That being small communities that own means of production for their own product/service/subsidy? Akin to hunger games but actually cool lmao
 
 Im trying my hand at making some myself:
-- [[The Human Library]]
+- [[6 - Elryan The Explorer/The Creostic/The Archive Eternal (Business)/The Human Library]]
 - [[The Library Economy]]
 - [[Creation, Time, and Impact Based Economy]]
 - [[The Commune]] 
@@ -2774,7 +2780,7 @@ This is part of a bigger exploration in mental autonomy. Built during the **60 D
 
 ### Contribute / Support
 
-- [x] Public alpha coming soon
+- [x] Public alpha coming soon #archived
 - 💬 Feedback welcome via Issues or [hopefullyabysmal.dev](https://hopefullyabysmal.dev)
 - ☕ Sponsor the journey on [Ko-fi] or [GitHub Sponsors]
 ```
@@ -3169,13 +3175,13 @@ Author:
 ---
 ### 🤑Work Schedule
 
-- [x] Finish cleaning
-	- [x] Workstation
-	- [x] Closet
+- [x] Finish cleaning #archived
+	- [x] Workstation #archived
+	- [x] Closet #archived
 		- [ ] Fix 3d printer (might just leave it, no time. I want to buy a bambu but hear shit abt their cybersecurity being mid so eh;; will just jailbreak it if need be... the tech itself is dope, some people just don't know how to run an ethical and secure business lmao // famous last words :clown:)
-		- [x] put up pen plotter
+		- [x] put up pen plotter #archived
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
-	- [x] Transfer ideas / organize files (none new to translate today)
+	- [x] Transfer ideas / organize files (none new to translate today) #archived
 - [ ] Push all ideas to gpt to make long-term plan
 	- [ ] Decide what to do next (just fuckn code already)
 - [ ] Filter personal info to upload (culling this to misc Ideas, not in scope as of now; maybe in free time)
@@ -3454,7 +3460,7 @@ Date Created: 2025-04-16 19:17
 Last Updated: 2025-04-16 19:17
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -3473,7 +3479,7 @@ Author:
 
 
 
-# [[5 - Journals/Team/Day 0]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/5 - Journals/Team/Day 0]]
 
 ---
 Date Created: 2025-04-15 15:25
@@ -3500,7 +3506,7 @@ Peruse my mind:
 - Are.na is where most of my ideas are nowadays:
 	- https://www.are.na/nxlounojeoi
 
-# [[General Note Template]]
+# [[1 - Templates/General Note Template]]
 
 Created: {{date}} {{time}}
 Last Edited: {{date}} {{time}}
@@ -3508,7 +3514,7 @@ Tags: #Unfinished
 
 
 
-# [[DOGE]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/DOGE]]
 
 ---
 Date Created: 2025-04-18 22:40
@@ -3562,7 +3568,7 @@ https://archive.is/RZJBm
 
 
 
-# [[Youtube Support]]
+# [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Youtube Support]]
 
 ---
 Date Created: 2025-04-17 15:37
@@ -3615,7 +3621,7 @@ Date Created: 2025-04-18 07:19
 Last Updated: 2025-04-18 07:19
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -3635,7 +3641,7 @@ Date Created: 2025-04-17 13:50
 Last Updated: 2025-04-17 13:50
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -3674,7 +3680,7 @@ Last Updated: "2025-03-24 15:10"
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
+  - "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: false
@@ -3760,7 +3766,7 @@ Last Updated: "2025-03-24 15:10"
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
+  - "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: false
@@ -3828,7 +3834,7 @@ Akin to DOI, ContentID, SSID, and the basic URL, everything and everyone needs t
 
 
 
-# [[Creosticism]]
+# [[6 - Elryan The Explorer/The Creostic/Creosticism]]
 
 ---
 Date Created: 2025-04-20 14:29
@@ -3856,7 +3862,7 @@ Date Created: 2025-04-17 17:13
 Last Updated: 2025-04-17 17:13
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -3875,7 +3881,7 @@ Date Created: 2025-04-17 13:51
 Last Updated: 2025-04-17 13:51
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true
@@ -3987,7 +3993,7 @@ Date Created: 2025-04-17 16:29
 Last Updated: 2025-04-17 16:29
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: 
 Status: Unweathered
 Published: true

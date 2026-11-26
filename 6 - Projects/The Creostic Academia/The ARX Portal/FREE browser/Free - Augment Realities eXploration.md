@@ -5,12 +5,15 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Mechanical Engineering]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Mechanical Engineering]]
 
 > _Boundless exploration — roam the edge of thought freely._
 

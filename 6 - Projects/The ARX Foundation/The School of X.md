@@ -1,7 +1,8 @@
 ---
 Date Created: 2025-04-15 15:26
 Last Updated: 2025-04-15 15:26
-tags: 
+tags:
+  - Project
 Index: 
 Topic: 
 Status: Unweathered

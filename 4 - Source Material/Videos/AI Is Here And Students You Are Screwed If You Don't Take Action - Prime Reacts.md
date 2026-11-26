@@ -4,12 +4,17 @@ Last Updated: 2025-04-20 14:32
 tags:
   - Resource
 Index: 
-Topic: "[[Artificial Intelligence]]"
+Topic:
+  - "[[Programming]]"
+  - "[[Money]]"
 Link: https://www.youtube.com/watch?v=LXUw0xSib-g
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]], [[Money]]
+
 0:00
 
 I do mean this that I love articles that are titled in such a way that make me think that I'm confirming my own bias

@@ -5,6 +5,8 @@ tags:
   - Archive
 Index:
   - "[[Journals]]"
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
@@ -12,24 +14,26 @@ Author:
 ---
 ---
 
+Themes: [[Money]]
+
 # 📆 Daily Log – 2025-05-11
 
 **Shit I Need to Do Today:**
 
 ## 🕒 Life Schedule
 
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-	- [x] Drink something caffeinated - matcha blueberry smoothie :)
-	- [x] Breakfast - Cereal
-- [x] Make work to-do list 
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+	- [x] Drink something caffeinated - matcha blueberry smoothie :) #archived
+	- [x] Breakfast - Cereal #archived
+- [x] Make work to-do list #archived
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [ ] Do a chore (dish/laundry/trash/etc.)
 - [ ] Handle pet care / errands / groceries  
@@ -55,20 +59,20 @@ Author:
 	- [ ] LLC for ARX - maybe wait until productization? can use HA as holding company for IP until then.
 		- [ ] Draft up organization papers
 			- [ ] Have Adam verify them
-				- [x] Percentage ownership? Propose impact based ownership akin to [[Memorandum of Understanding]] and [[README]]. Can put ownership in a 3rd party trust and have it distribute after the 60 day runway if they don't trust me to do so myself. For now just like 1% until things blow over unless they aren't chill with that
+				- [x] Percentage ownership? Propose impact based ownership akin to [[Memorandum of Understanding]] and [[README]]. Can put ownership in a 3rd party trust and have it distribute after the 60 day runway if they don't trust me to do so myself. For now just like 1% until things blow over unless they aren't chill with that #archived
 		- [ ] Use info@thearxfoundation.org for filing communications
 		- [ ] Send completed documentation out to respective parties
-- [x] Migrate content to substack and repost the shorts generated on youtube (and Instagram? and reddit?) - ongoing effort, takes forever to upload each because it processes it then and there
-- [x] Edited and posted "2025-04-20 // The Jankiest TV Mount of All Time" to patreon (forgot I recorded it)
+- [x] Migrate content to substack and repost the shorts generated on youtube (and Instagram? and reddit?) - ongoing effort, takes forever to upload each because it processes it then and there #archived
+- [x] Edited and posted "2025-04-20 // The Jankiest TV Mount of All Time" to patreon (forgot I recorded it) #archived
 - [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]] - pulled from misc tasks
-	- [x] convert logos from day 5 thumbnail to minimalistic portal icons
-		- [x] Home page with stated icons (do ring)
+	- [x] convert logos from day 5 thumbnail to minimalistic portal icons #archived
+		- [x] Home page with stated icons (do ring) #archived
 	- [ ] make basic representations of each
 		- [ ] chatgpt to elaborate, lovable to create, figma to edit
 - [ ] Fun task: Collage Ethan's DND snapshot (due May 16th before wedding rehersal)
-- [x] Push to repo / update site  
-- [x] Record and Post V-log
-	- [x] Tools available to any modern tech startup
+- [x] Push to repo / update site #archived
+- [x] Record and Post V-log #archived
+	- [x] Tools available to any modern tech startup #archived
 
 
 ---

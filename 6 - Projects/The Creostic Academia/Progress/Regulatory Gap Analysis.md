@@ -1,3 +1,20 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Programming]]"
+  - "[[Biomedical Engineering]]"
+  - "[[Machine Learning]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Programming]], [[Biomedical Engineering]], [[Machine Learning]]
+
 ### Initial idea:
 
 Having worked on enhancing engineering documentation accessibility with AI for my senior design project, I found a need for more advanced tools to analyze documentation; specifically in the medical device field (Biomedical Engineering). With the vast regulatory bodies and standards becoming incomprehensible to someone without decades of experience, the barrier to entry to the field stands as one of the highest among engineering colleges. To bridge this gap, I propose to utilize advanced machine learning tools to perform gap analysis in a way that teaches the user how to become (or stay) regulatory complaint. Aside from the beginner, this tool could be utilized even by seasoned employees; as regulations are often updated, ensuring that one's device stays up to regulation becomes a job in and of itself. The automation of this task ensures that medical device companies can stay up to date on the stringent requirements of these regulations, all the while bettering their product and consequentially their patient outcomes. With this automation we can progress past the occurrence of unnecessary regulatory violations, and hopefully make noncompliance a thing of the past.

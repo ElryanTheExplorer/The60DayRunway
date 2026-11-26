@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 Multiple agents working simultaneously under different roles feom different perspectives
 	Senior dev, project manager etc.
 	Lazy to search for corners to cut, detail oriented to address the corners cut and determine risk profile then implement or reject, documentation rich for human translation, etc. (Simulate circumstances and conflicts of interest to spurr creativity?)

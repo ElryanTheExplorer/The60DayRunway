@@ -18,38 +18,38 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (Good old matcha my beloved) - no caffeine today, need control for meds
-- [x] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something (yes, that counts)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
-- [x] Shower (for the love of all that is sacred)
-- [x] Reflect / prep for public speaking / writing
-- [x] Go outside (optionally with friends)
-- [x] Dinner or evening wind-down
+- [x] Check financial status (e.g., bank, crypto, whatever) #archived
+- [x] Eat something (yes, that counts) #archived
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
+- [x] Shower (for the love of all that is sacred) #archived
+- [x] Reflect / prep for public speaking / writing #archived
+- [x] Go outside (optionally with friends) #archived
+- [x] Dinner or evening wind-down #archived
 
 ## 🌱 Throughout Day
 
-- [x] Drink entire water bottle (seriously)
-- [x] Move body, stretch, or at least shift positions
-- [x] !!BREATHE!!
+- [x] Drink entire water bottle (seriously) #archived
+- [x] Move body, stretch, or at least shift positions #archived
+- [x] !!BREATHE!! #archived
 
 
 ## 🤑Work Schedule
 
-- [x] [[A Modern Privacy Policy for Open Education]]
-	- [x] Based on [[How can we make transparent education privacy centric]], [[This Is What a Digital Coup Looks Like - Carole Cadwalladr - TED]], [[What DeleteMe and Incogni aren't telling you]]
-	- [x] Recorded and posted video - https://youtu.be/2pb6-0VatBY?si=mUbgEaOILkrnR-77
+- [x] [[A Modern Privacy Policy for Open Education]] #archived
+	- [x] Based on [[How can we make transparent education privacy centric]], [[This Is What a Digital Coup Looks Like - Carole Cadwalladr - TED]], [[What DeleteMe and Incogni aren't telling you]] #archived
+	- [x] Recorded and posted video - https://youtu.be/2pb6-0VatBY?si=mUbgEaOILkrnR-77 #archived
 
 
 Still Pushing forward (culling to misc tasks as needed):
@@ -67,7 +67,7 @@ Still Pushing forward (culling to misc tasks as needed):
 	- [ ] Move answered questions into folder
 		- [ ] [[Unanswered]] questions for SCOOL
 - [ ] Rename image attachments for ease of perusal and reference
-- [ ] Inter-link all relevant mentions of impact to [[Impact Compensation Methodologies and Mechanisms]]
+- [ ] Inter-link all relevant mentions of impact to [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms]]
 
 
 ---
@@ -79,7 +79,7 @@ Meds helped, still took it slow cause I'm trying to be conscious of burnout.
 
 Wrote script and recorded [video](https://youtu.be/2pb6-0VatBY?si=mUbgEaOILkrnR-77)
 
-Wife wants to help fund so is going to use her art skills to make shirts to sell on my personal website [Hopefully Abysmal](Hopefully%20Abysmal.md) so go buy em mfs
+Wife wants to help fund so is going to use her art skills to make shirts to sell on my personal website [Hopefully Abysmal](3%20-%20Indexes/Hopefully%20Abysmal.md) so go buy em mfs
 	Yes its fast fashion, print on demand, but for a good cause;; ill comp the environmental costs later on when I can afford it (hold me to it)
 	Gonna charge ~$30 per shirt, costs anywhere from $12-$20 to make (depending on if just front or on both front and back) so only taking a bit off the top like the middleman I am;; again for a good cause tho, everything made from that is being re-invested so HELP ME BY HELPING YOURSELF TO COOL MERCH PLEASE.
 	Taking ideas from https://www.are.na/nxlounojeoi/shirts-to-wear-to-your-grandmothers-birthday-party and my wife's beautiful sense of humor (and extensive tweet archive lmao) so if you want something done add to the board, if you want anything expedited hmu we gotchu.

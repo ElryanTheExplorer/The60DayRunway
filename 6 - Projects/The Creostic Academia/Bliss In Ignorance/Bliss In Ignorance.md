@@ -3,9 +3,16 @@ Date: 2024-12-14 22:41
 tags:
   - Business
 Paths: 
+Topic:
+  - "[[Philosophy]]"
+  - "[[Machine Learning]]"
+  - "[[Programming]]"
 Status: Processing
 ---
 ---
+
+Themes: [[Philosophy]], [[Machine Learning]], [[Programming]]
+
 ## Phrases 
 To throw up on the main page like minecraft does :)
 

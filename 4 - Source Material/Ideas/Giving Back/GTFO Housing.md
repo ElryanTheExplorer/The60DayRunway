@@ -4,9 +4,9 @@ Last Updated: 2025-03-28 11:27
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
+  - "[[3 - Indexes/Cracked Ideas]]"
 Topic:
-  - "[[homelessness]]"
+  - "[[5 - Journal/Thoughts/homelessness]]"
 Status: Unweathered
 Published: false
 ---

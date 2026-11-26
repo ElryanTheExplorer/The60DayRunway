@@ -1,3 +1,19 @@
+---
+Date Created: 2025-05-31 00:00
+Last Updated: 2025-05-31 00:00
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Mechanical Engineering]]"
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Mechanical Engineering]], [[Money]]
+
 Here’s a checklist of key things to keep in mind or prepare for each agenda item in your meeting:
 
 ---

@@ -21,12 +21,12 @@ Author:
 - [ ] Morning routine  
 	- [ ] Brush teeth  
 	- [ ] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something caffeinated 
 	- [ ] Breakfast
 - [ ] Make work to-do list 
@@ -50,11 +50,11 @@ Author:
 ## 🤑Work Schedule
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
-- [x] Meeting with Daniel Lindenberger - Graphic design work
-- [x] Set up meeting with Daniel Fountaine (clusterfuck)
-- [x] Continue JAVA Binge
-- [x] Get up to speed on airtable functionality
-	- [x] https://youtu.be/VkmZCC55giA?si=laCwz1lVUV46UY_J
+- [x] Meeting with Daniel Lindenberger - Graphic design work #archived
+- [x] Set up meeting with Daniel Fountaine (clusterfuck) #archived
+- [x] Continue JAVA Binge #archived
+- [x] Get up to speed on airtable functionality #archived
+	- [x] https://youtu.be/VkmZCC55giA?si=laCwz1lVUV46UY_J #archived
 	- [ ] [[Chronological UX (WNC-supply-sites)]]
 - [ ] Push to repo / update site  
 - [ ] Record and Post V-log

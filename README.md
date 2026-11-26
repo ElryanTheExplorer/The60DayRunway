@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Area
+Index: 
+Topic:
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]]
+
 # The60DayRunway
 The 60 Day Runway // The Beginnings of The Arx Foundation
 
@@ -72,7 +87,7 @@ Some ALT Examples to spur ideation:
 
 ## Immediate Needs
 
-- **[[The Funding Ask|Funding support]]** for editors, moderators, and infrastructure
+- **[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/The Funding Ask|Funding support]]** for editors, moderators, and infrastructure
 	- **All video revenue** is to be shared among collaborators based on time/impact
 - Looking for grants, community backers, or people who want to co-build something different
 - Attention. Share this with your friends, family, colleagues, anyone who will listen; we are a democratic society and the only way change occurs is with volume of opinion.
@@ -89,7 +104,7 @@ Some ALT Examples to spur ideation:
 
 - ☕ Support on Ko.Fi: https://ko-fi.com/hopefullyabysmal
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop for some cool merch at [Hopefully Abysmal](Hopefully%20Abysmal.md)
+- 🛍️ Shop for some cool merch at [Hopefully Abysmal](7%20-%20The%20Katalyst/The%20Capitalist/The%2060%20Day%20Runway/3%20-%20Indexes/Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://vault.hopefullyabysmal.com)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)

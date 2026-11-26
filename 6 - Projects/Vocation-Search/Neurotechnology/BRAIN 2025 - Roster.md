@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]], [[Money]]
+
 Here are the LinkedIn profiles I located for the individuals on the Brain 2025 Roster:
 
 ---

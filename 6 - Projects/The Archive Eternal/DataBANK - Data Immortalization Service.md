@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 Charge people to keep their data and deliver to posterity years down the line (set conditions)
 	Horizontally integrate hosting providers to be able to immortalize websites and social media profiles as well
 	Horizontally integrate data collection services to store your digital footprint in its entirety, potentially also deleteMe partnership to get removed from the people you don't want to have them (if already doing search, can outsource search to them and let them advertize ability to delete it all everywhere but on your backups)

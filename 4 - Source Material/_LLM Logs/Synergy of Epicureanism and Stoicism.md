@@ -4,12 +4,16 @@ Last Updated: "2025-04-22 11:14"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Philosophy]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Philosophy]]
+
 # ME
 How can Epicureanism (originally a challenge to Platonism, its main opponent later became Stoicism) and Stoicism synergize? I like both but am curious.. The pursuit of eudaimonia is important, and the side of stoicism that aligns with DBT as in viewing your emotions as information resonates with me
 

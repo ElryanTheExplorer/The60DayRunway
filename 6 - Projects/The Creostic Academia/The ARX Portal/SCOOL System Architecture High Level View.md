@@ -5,12 +5,16 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Machine Learning]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Machine Learning]]
+
 (Using GPT for this so take with grain of salt; input [[Fast - Augment Realities eXpedition]], [[Fathom - Augment Realities eXegesis]], [[Flow - Augment Realities eXpergefaction]], [[Forge - Augment Realities eXternalization]], [[Forum - Augment Realities eXpostulations]], [[Found - Augment Realities eXcursion]], [[Frame - Augment Realities eXpurgation]], [[Free - Augment Realities eXploration]], [[Fun - Augment Realities eXtravaganza]], and the raw source code of [[The SCOOL Student Experience.canvas|The SCOOL Student Experience]])
 
 

@@ -4,9 +4,12 @@ Last Updated: "2025-04-29 11:55"
 tags:
   - Path
 Index: 
-Topic: 
+Topic:
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Philosophy]]
 

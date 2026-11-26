@@ -8,11 +8,17 @@ Index:
 Topic:
   - "[[Funding Cycle for Open Access Education.canvas|Funding Strategies for Open Access Education]]"
   - "[[Finances of Competition]]"
+  - "[[Money]]"
+  - "[[Philosophy]]"
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author: 
 ---
 ---
+
+Themes: [[Money]], [[Philosophy]], [[Programming]]
+
 [[Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas|Funding Cycle for Open Access Education With Accelerative Learning Tools]]
 
 
@@ -342,7 +348,7 @@ We believe in making it visible — in **livestreaming** the climb, the mistakes
 ### Follow / Support
 
 - 💲 Support on Patreon: patreon.com/HopefullyAbysmal
-- 🛍️ Shop at [Hopefully Abysmal](Hopefully%20Abysmal.md)
+- 🛍️ Shop at [Hopefully Abysmal](3%20-%20Indexes/Hopefully%20Abysmal.md)
 - 💌 Contact: [60dayrunway@hopefullyabysmal.com]
 - 🧭 Follow progress via [Our Zettelkasten](https://hopefullyabysmal.github.io)
 - 📽️ Immerse yourself in the story on [Youtube](https://www.youtube.com/@HopefullyAbysmal/)
@@ -448,7 +454,7 @@ Idea for initial monetization:
 				- Discord // matrix // IRC integration in Pine64 dev server as example
 				- Integrate with activity-hub; I fw it heavy cause it tells monopolies to fuck off
 	- Symptoms of an individualist economy include but are not limited to:
-		- [[homelessness]]
+		- [[5 - Journal/Thoughts/homelessness]]
 		- Debt (without the intent of leveraging it)
 		- Crime
 		- Gatekeeping information

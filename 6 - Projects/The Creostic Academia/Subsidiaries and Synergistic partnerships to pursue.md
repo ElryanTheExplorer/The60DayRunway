@@ -4,11 +4,15 @@ Last Updated: 2025-04-21 10:21
 tags:
   - Project
 Index: "[[Outreach]]"
-Topic: 
+Topic:
+  - "[[Programming]]"
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
 ---
+
+Themes: [[Programming]], [[Money]]
 
 ---
 Activity hub integration - sync all action across all platforms s.t. one can create and maximize impact to users off platform

@@ -3,14 +3,18 @@ Date Created: 2025-04-26 16:28
 Last Updated: 2025-04-26 16:28
 tags:
   - Resource
-Index: 
+Index:
 Topic:
-  - "[[The Archive Eternal]]"
-Link: 
+  - "[[6 - Elryan The Explorer/The Wizard/The Archive Eternal/Concepts/The Archive Eternal]]"
+  - "[[Death]]"
+Link:
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Death]]
+
 # The Start of an Obsession
 
 ## https://www.youtube.com/watch?v=cHuqhQmc4ok

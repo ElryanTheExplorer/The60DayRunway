@@ -4,8 +4,8 @@ Last Updated: 2025-04-15 16:04
 tags:
   - Project
 Index:
-  - "[[Cracked Ideas]]"
-Topic: 
+  - "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 Published: true
 Author: Landon
@@ -20,7 +20,7 @@ Author: Landon
 
 Tags: #Business 
 
-Paths: [[Cracked Ideas]]
+Paths: [[3 - Indexes/Cracked Ideas]]
 
 - Use blender to make custom sunglasses and print on resin printer / injection mold
 - Organic Textured

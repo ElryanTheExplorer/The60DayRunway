@@ -5,12 +5,16 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Mechanical Engineering]]"
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Mechanical Engineering]], [[Philosophy]]
 
 Pulling information from : [[DAO Voting Structures]] [[DAO Voting Models Exploration]] [[Funding Cycle for Open Access Education With Accelerative Learning Tools.canvas|Funding Cycle for Open Access Education With Accelerative Learning Tools]] and misc handwritten notes: [[2025-04-29 (handwritten notes)]]
 

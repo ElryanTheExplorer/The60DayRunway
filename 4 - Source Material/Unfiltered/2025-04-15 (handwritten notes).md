@@ -4,11 +4,16 @@ Last Updated: 2025-04-16 21:45
 tags:
   - Archive
 Index: "[[Journals]]"
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author: Landon
 ---
 ---
+
+Themes: [[Money]]
+
 # Translation from notes + thoughts now
 
 - Page 1:

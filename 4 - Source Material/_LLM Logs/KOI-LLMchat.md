@@ -6,11 +6,16 @@ tags:
 Index: 
 Topic:
   - "[[MetaGov Knowledge Organization Infrastructure]]"
+  - "[[Biomedical Engineering]]"
+  - "[[Mechanical Engineering]]"
+  - "[[Programming]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Biomedical Engineering]], [[Mechanical Engineering]], [[Programming]]
 
 # Me
 Need to get up to speed on Knowledge Organization Infrastructure, what are you aware of it?

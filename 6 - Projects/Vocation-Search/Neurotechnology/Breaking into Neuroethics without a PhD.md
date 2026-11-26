@@ -1,15 +1,20 @@
 ---
-Date Created: "2025-06-13 23:13"
-Last Updated: "2025-06-13 23:13"
-tags: 
-Index: 
-Topic: 
+Date Created: 2025-06-13 23:13
+Last Updated: 2025-06-13 23:13
+tags:
+  - Project
+Index:
+Topic:
+  - "[[Money]]"
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
 Status: Unweathered
 Published: true
-Author: 
+Author:
 aliases:
 ---
 ---
+
+Themes: [[Money]], [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]
 
 > Ok but like, I don't have a doctorate degree.... is there any way this can actually work? I do have a lot of research experience but unrelated to neuroscience. I can attempt to get the doctorate but its not really feasible rn. I have too much student loan debt and need to start making payments ASAP.
 

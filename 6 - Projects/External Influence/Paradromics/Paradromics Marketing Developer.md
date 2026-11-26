@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[2 - Paths/Computational Neuroscience]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[2 - Paths/Computational Neuroscience]]
+
 Absolutely — this is a **killer opportunity**, and you're right to focus on design + narrative chops rather than clout. Paradromics is the kind of company where _vibe and vision_ matter more than follower count — and your aesthetic + conceptual lean are strengths. Here's a plan to **impress the hell out of them** and frame you as _the weird-smart wildcard they didn’t know they needed_:
 
 ---

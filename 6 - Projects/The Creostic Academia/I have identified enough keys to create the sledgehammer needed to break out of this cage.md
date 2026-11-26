@@ -3,8 +3,8 @@ Date Created: 2025-04-17 13:51
 Last Updated: 2025-04-17 13:51
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
-Topic: 
+Index: "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 Published: true
 Author:

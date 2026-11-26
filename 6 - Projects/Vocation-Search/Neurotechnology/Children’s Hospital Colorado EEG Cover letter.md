@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Biomedical Engineering]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Biomedical Engineering]]
+
 Dear Hiring Team at Children’s Hospital Colorado,
 
 My name is Landon Dahle, a recent Biomedical Engineering graduate from Texas A&M University with a strong foundation in medical device development, signal processing, and clinical research. I am writing to express my enthusiastic interest in the EEG Technician Entry position at Children’s Hospital Colorado.

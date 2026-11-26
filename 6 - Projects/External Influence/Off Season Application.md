@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 
 "If I had more time 
 I would have written a shorter letter" 

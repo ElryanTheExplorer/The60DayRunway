@@ -4,13 +4,17 @@ Last Updated: 2025-06-03 14:32
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
 Link:
   - https://youtu.be/VkmZCC55giA?si=laCwz1lVUV46UY_J
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]]
+
 # Summary:
 
 

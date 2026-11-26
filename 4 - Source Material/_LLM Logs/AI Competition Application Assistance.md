@@ -4,12 +4,18 @@ Last Updated: "2025-04-28 16:09"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
+  - "[[Machine Learning]]"
+  - "[[Philosophy]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]], [[Machine Learning]], [[Philosophy]]
+
 # Summary:
 
 
@@ -33,7 +39,7 @@ Published: true
 
 Continuation from [[ARX General Business Plan]] conversation
 
-Applying for the following competition instead (grant had already passed) (copy paste [[Building a Better Future Through Business and AI Application]] rubric)
+Applying for the following competition instead (grant had already passed) (copy paste [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application]] rubric)
 
 
 ## GPT

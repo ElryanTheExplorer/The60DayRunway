@@ -5,11 +5,11 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
 Status: Unweathered
 Published: true
 Author:
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
   - "[[Landon Dahle]]"
 ---
 ---

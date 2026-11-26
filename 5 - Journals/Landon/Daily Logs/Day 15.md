@@ -21,12 +21,12 @@ Author:
 - [ ] Morning routine  
 	- [ ] Brush teeth  
 	- [ ] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something caffeinated 
 	- [ ] Breakfast
 - [ ] Make work to-do list 
@@ -56,10 +56,10 @@ Author:
 - [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]] - need to stop pushing off
 	- [ ] make basic representations of each
 		- [ ] chatgpt to elaborate, lovable to create, figma to edit
-- [x] Fun task: Collage Ethan's DND snapshot (due TMRW)
+- [x] Fun task: Collage Ethan's DND snapshot (due TMRW) #archived
 - [ ] Push to repo / update site  
 - [ ] Record and Post V-log
-- [x] Andor binge?
+- [x] Andor binge? #archived
 
 ---
 

@@ -18,23 +18,23 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-	- [x] Drink something caffeinated 
-	- [x] Breakfast
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+	- [x] Drink something caffeinated #archived
+	- [x] Breakfast #archived
 - [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
 - [ ] Lunch
-- [x] Go outside (optionally with friends)
+- [x] Go outside (optionally with friends) #archived
 - [ ] Shower (for the love of all that is sacred)
 - [ ] Reflect / prep for public speaking / writing
 - [ ] Dinner 
@@ -51,14 +51,14 @@ Author:
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
 
-- [x] [[Bio-regional Gamification Concept]] + Zoom Meeting
+- [x] [[Bio-regional Gamification Concept]] + Zoom Meeting #archived
 	- [ ] Take notes on meeting transcript
-	- [x] Send out 1:1 requests to those that can do co-development // funding
-	- [x] Apply to https://quorum.one/
+	- [x] Send out 1:1 requests to those that can do co-development // funding #archived
+	- [x] Apply to https://quorum.one/ #archived
 - [ ] Make a bluesky acc for HA - https://bsky.app/ (pushed to misc tasks)
-- [x] Set up Anything in Moderation - https://www.are.na/nxlounojeoi/anything-in-moderation
-	- [x] [[Matthew B Davis]], [[Optimally Buzzed App Idea]], [[Anything In Moderation]]
-- [x] Push to repo - get github, 
+- [x] Set up Anything in Moderation - https://www.are.na/nxlounojeoi/anything-in-moderation #archived
+	- [x] [[Matthew B Davis]], [[Optimally Buzzed App Idea]], [[Anything In Moderation]] #archived
+- [x] Push to repo - get github, #archived
 - [ ] update site - vscode, and quartz installed to do this
 - [ ] Record and Post V-log
 

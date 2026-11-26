@@ -7,7 +7,7 @@ Index:
   - "[[The ARX Index]]"
 Topic:
   - "[[SCOOL and ARX Portal Forwardable]]"
-  - "[[SCOOL Pitch Ideation]]"
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/SCOOL Pitch Ideation]]"
   - "[[ELI5 The SCOOL Platform]]"
 Status: Unweathered
 Published: true

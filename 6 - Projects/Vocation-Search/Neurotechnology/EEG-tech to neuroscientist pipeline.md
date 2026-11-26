@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 ### 🌟 **High-Level Objective**
 
 To transition from a recent B.S. Biomedical Engineering graduate into a fully certified, financially stable neurotech specialist with strong clinical and research experience. Long-term focus includes consciousness research, neural interface technology, and possibly a funded PhD depending on opportunity alignment.

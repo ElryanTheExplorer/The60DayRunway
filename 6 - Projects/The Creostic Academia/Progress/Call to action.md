@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Programming]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Programming]]
+
 This past summer I was charged with the task of writing a review paper on Tetrahedral DNA Nanocages; I found I had thousands of reputable sources at my fingertips but the inability to discern what was really needed for future research on the subject. At this time I had been attempting to utilize large language models (LLMs) such as OpenAI's ChatGPT to try and point the way; a feeble but insightful attempt that led me to the following conclusion: the recent advancements in natural language processing (NLP) and LLM's should be used to process the seemingly infinite sea of research to foster and accelerate our technological advancement.
 
 As I am only a college student with big dreams and hopes for how I can help humanity, I am new to the world of tech and research. To compensate for this, I am reaching out for advice on the matter with the following call to action:

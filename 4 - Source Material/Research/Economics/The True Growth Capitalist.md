@@ -3,8 +3,8 @@ Date Created: 2025-04-04 11:06
 Last Updated: 2025-04-17 11:06
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
-Topic: 
+Index: "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 Published: false
 Author: Landon
@@ -20,7 +20,7 @@ Love me some good economic concepts like idealist capitalism, the library econom
 > Perhaps the concept of communal socialism? That being small communities that own means of production for their own product/service/subsidy? Akin to hunger games but actually cool lmao
 
 Im trying my hand at making some myself:
-- [[The Human Library]]
+- [[6 - Elryan The Explorer/The Creostic/The Archive Eternal (Business)/The Human Library]]
 - [[The Library Economy]]
 - [[Creation, Time, and Impact Based Economy]]
 - [[The Commune]] 

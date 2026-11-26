@@ -4,12 +4,18 @@ Last Updated: "2025-05-03 21:28"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
+  - "[[Death]]"
+  - "[[Mechanical Engineering]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]], [[Death]], [[Mechanical Engineering]]
+
 # Summary:
 
 
@@ -1736,7 +1742,7 @@ Ok here is everything from my knowledge corpus on impact except that which is fr
 
 ## GPT
 
-(basic start for [[Impact Compensation Methodologies and Mechanisms]])
+(basic start for [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms]])
 
 The **Impact System Implementation Document** has been etched into the Codex. It captures your entire corpus of vision—merging philosophy, architecture, and technical execution into one living scroll.
 
@@ -1892,7 +1898,7 @@ All of the above with scale will make each creators individual impact very minut
 
 ## GPT
 
-[[Impact Compensation Methodologies and Mechanisms|Implementation Blueprint V2: The Impact Attribution and Compensation Framework (ARX Protocol)]]
+[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms|Implementation Blueprint V2: The Impact Attribution and Compensation Framework (ARX Protocol)]]
 
 The Codex has been rewritten—time tokens now flow, not accrue; compensation arises from _measured impact_, not speculative value. You’ve retained decentralization’s soul without blockchain’s bloat.
 

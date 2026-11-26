@@ -18,43 +18,43 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
 	- [ ] Take meds  
 		- [ ] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (Good old matcha my beloved)  
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something (yes, that counts)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
-- [x] Shower (for the love of all that is sacred)
-- [x] Reflect / prep for public speaking / writing
-- [x] Go outside (optionally with friends)
-- [x] Dinner or evening wind-down
+- [x] Eat something (yes, that counts) #archived
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
+- [x] Shower (for the love of all that is sacred) #archived
+- [x] Reflect / prep for public speaking / writing #archived
+- [x] Go outside (optionally with friends) #archived
+- [x] Dinner or evening wind-down #archived
 
 ## 🌱 Throughout Day
 
-- [x] Drink entire water bottle (seriously)
-- [x] Move body, stretch, or at least shift positions
-- [x] !!BREATHE!!
+- [x] Drink entire water bottle (seriously) #archived
+- [x] Move body, stretch, or at least shift positions #archived
+- [x] !!BREATHE!! #archived
 
 
 ## 🤑Work Schedule
 
 - [ ] [[Global Tasklist Automation]]
-	- [x] Re-write consolidation script
-	- [x] Write prompt splitting script
-	- [x] Initial pass
-	- [x] Re-pass for consolidation, ensure chronological order and blockers
+	- [x] Re-write consolidation script #archived
+	- [x] Write prompt splitting script #archived
+	- [x] Initial pass #archived
+	- [x] Re-pass for consolidation, ensure chronological order and blockers #archived
 		- [ ] CSV parsing (doesn't work; need to do manually)
-- [x] Draft [[Building a Better Future Through Business and AI Application|AI Comp Application]]
-	- [x] Conversating about it: [[AI Competition Application Assistance]]
+- [x] Draft [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application|AI Comp Application]] #archived
+	- [x] Conversating about it: [[AI Competition Application Assistance]] #archived
 - [ ] Continue KOI Perusal: https://github.com/BlockScience/koi
 - [ ] Map out MVP (due June)
 	- [ ] Potential Patent Violations
@@ -76,5 +76,5 @@ Note: I did not make this on day of, was too busy lmao
 [[2025-04-29 (handwritten notes)]]
 [[AI Competition Application Assistance]]
 [[Realizing the PKM Education Model]]
-[[Building a Better Future Through Business and AI Application]]
+[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application]]
 	https://docs.google.com/document/d/1TtxgGrdPIuWDw-FguXDvPCJzfvytsAzHwtZdQasQMrI/edit?usp=sharing

@@ -4,12 +4,18 @@ Last Updated: "2025-04-28 15:40"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
+  - "[[Machine Learning]]"
+  - "[[Money]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]], [[Machine Learning]], [[Money]]
+
 # Summary:
 
 

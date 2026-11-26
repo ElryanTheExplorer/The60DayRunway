@@ -4,11 +4,15 @@ Last Updated: 2025-04-16 19:15
 tags:
   - Archive
 Index: "[[Journals]]"
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author: Landon
 ---
 ---
+
+Themes: [[Money]]
 
 (Not day 1 yet because the deadline for 60 days until eviction has yet to proc);; calling it day -14 actually.
 
@@ -23,22 +27,22 @@ Listening to [FORM vol 9](https://www.youtube.com/watch?v=O2hKcoftkv0&t=3122s) S
 
 ## 🕒 Life Schedule
 
-- [x] Make a to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+- [x] Make a to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (Good old matcha my beloved)  
-		- [x] I SPILLED MY MATCHA; sad day :/
-- [x] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something (yes, that counts)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
+		- [x] I SPILLED MY MATCHA; sad day :/ #archived
+- [x] Check financial status (e.g., bank, crypto, whatever) #archived
+- [x] Eat something (yes, that counts) #archived
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
 - [ ] Shower (for the love of all that is sacred)
 - [ ] Reflect / prep for public speaking / writing
 - [ ] Go outside (optionally with friends)
@@ -47,7 +51,7 @@ Listening to [FORM vol 9](https://www.youtube.com/watch?v=O2hKcoftkv0&t=3122s) S
 ## 🌱 Throughout Day
 
 - [ ] Drink entire water bottle (seriously)
-	- [x] Im drinking orange juice does that count?
+	- [x] Im drinking orange juice does that count? #archived
 - [ ] Move body, stretch, or at least shift positions
 - [ ] !!BREATHE!!
 
@@ -55,20 +59,20 @@ Listening to [FORM vol 9](https://www.youtube.com/watch?v=O2hKcoftkv0&t=3122s) S
 ## 🤑Work Schedule
 
 - [ ] Finish admin or digital task  
-	- [x] Translate written notes to digital
-		- [x] Upload to AI overloards for review
-		- [x] Update Readme with scope shift
+	- [x] Translate written notes to digital #archived
+		- [x] Upload to AI overloards for review #archived
+		- [x] Update Readme with scope shift #archived
 	- [ ] Filter personal info to upload
-- [x] Post updates or progress  
-	- [x] Push to repo / update site  
-	- [x] Update socials / links
-		- [x] Added profile pic to github
-		- [x] Posted some funnies to Are.na
-		- [x] Recorded videos for day (-)15 and day (-) 14
-			- [x] Edit videos
-			- [x] Post 
-- [x] Apply for DOGE
-- [x] Make Logo
+- [x] Post updates or progress #archived
+	- [x] Push to repo / update site #archived
+	- [x] Update socials / links #archived
+		- [x] Added profile pic to github #archived
+		- [x] Posted some funnies to Are.na #archived
+		- [x] Recorded videos for day (-)15 and day (-) 14 #archived
+			- [x] Edit videos #archived
+			- [x] Post #archived
+- [x] Apply for DOGE #archived
+- [x] Make Logo #archived
 
 ---
 

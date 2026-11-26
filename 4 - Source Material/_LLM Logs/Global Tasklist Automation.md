@@ -4,11 +4,17 @@ Last Updated: "2025-04-28 08:55"
 tags:
   - Archive
 Index: "[[Journals]]"
+Topic:
+  - "[[Money]]"
+  - "[[Programming]]"
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]], [[Programming]], [[Philosophy]]
 
 Based on [[Consolidated_Notes (2025-04-21)]] seperated into 14 chunks and parsed to gpt
 

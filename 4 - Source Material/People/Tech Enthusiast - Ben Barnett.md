@@ -4,12 +4,16 @@ Last Updated: "2025-05-13 15:20"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]]
+
 # 2025-05-13
 ## Summary:
 Meeting to discuss Ben's role in the grand scheme of things (this endeavor lmao), he plans on helping out where he can, currently in networking for us; prompted us to draft up a [[SCOOL and ARX Portal Forwardable|forwardable]] to send out.

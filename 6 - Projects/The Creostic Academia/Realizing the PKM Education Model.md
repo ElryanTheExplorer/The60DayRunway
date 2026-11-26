@@ -227,7 +227,7 @@ Would you like a diagram of the architecture or a phased implementation roadmap 
 
 I would like to reframe the consumption quotas to "engagement quotas", or even "attendance quotas". For now lets just integrate into my proposal please: 
 
-Copy paste: [[Building a Better Future Through Business and AI Application]]
+Copy paste: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application]]
 
 
 

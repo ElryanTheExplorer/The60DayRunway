@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 https://journals.law.unc.edu/ncjolt/blogs/google-wins-infringement-case-at-trial-over-video-streaming-patent-covering-1980s-inventions/
 - im of the belief that the concept of innovation by acquisition and inorganic innovation (that being puzzle piecing old tech together to make new shit) Is going to be in my favor for this one. Apparently they had a lengthy battle for their streaming side of things, so I would be protected on that front (they put in the money to break that precedent for me!)
 

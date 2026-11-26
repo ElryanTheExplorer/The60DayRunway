@@ -4,15 +4,18 @@ Last Updated: 2025-05-06 11:28
 tags:
   - Project
 Index:
-  - "[[Hopefully Abysmal]]"
-Topic: 
+  - "[[3 - Indexes/Hopefully Abysmal]]"
+Topic:
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author:
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
   - "[[Landon Dahle]]"
 ---
 ---
+
+Themes: [[Programming]]
 
 To legally operate "Hopefully Abysmal LLC" in Utah, focusing on creative works, web development, and a t-shirt side hustle, you'll need to address both state and local licensing requirements. Here's a breakdown:
 

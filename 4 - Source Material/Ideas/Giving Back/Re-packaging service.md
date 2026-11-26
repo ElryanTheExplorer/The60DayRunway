@@ -2,8 +2,8 @@
 Date: 2024-12-19 20:07
 tags:
   - Business
-Index: "[[Cracked Ideas]]"
-Topic: 
+Index: "[[3 - Indexes/Cracked Ideas]]"
+Topic:
 Status: Unweathered
 ---
 ---

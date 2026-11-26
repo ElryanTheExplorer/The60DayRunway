@@ -1,15 +1,19 @@
 ---
 Date Created: "2025-06-13 12:10"
 Last Updated: "2025-06-13 12:10"
-tags: 
+tags:
+  - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author: 
 aliases:
 ---
 ---
+
+Themes: [[Money]]
 
 
 www.mapletestimony.org

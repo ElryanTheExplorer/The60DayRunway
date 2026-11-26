@@ -1,8 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 2024-06-06 20:33
 
 Tags: #Art 
 
-Paths: [[Cracked Ideas]]
+Paths: [[3 - Indexes/Cracked Ideas]]
 
 Utilize obsidian graph view with keywords to make graph of all human knowledge available via web scraping. 
 	- Pick a specific topic to start

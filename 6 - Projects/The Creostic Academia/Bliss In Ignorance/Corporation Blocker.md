@@ -1,8 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 2024-12-06 14:05
 
 Tags: #Business 
 
-Paths: [[Cracked Ideas]]
+Paths: [[3 - Indexes/Cracked Ideas]]
 
 """ 
 This is where the oligarchic "influence" shows. Ever wonder why Firefox blocks "fixes"? 90% of their funding comes from Google (and the up-the-ladder 'cult' that puppet-strings them). Any search engine which no longer supports FULL REGEX (_,-,,~,AND,OR,NOT, parans) is not a search engine at all; it's a filter, a censoring, a blocking, a de-sovereigning, an obfuscator, a used car sales[wo/]man, a politiCIAn. Apparently, you have no longer got the right to ask questions as you wish, and thus, that prevents you from getting answers that Google missed in deleting, deplatforming, re-routing to WHO/WEF/CIA. That sovereign was already owned, and YOU, are too, as a miniscule corporate entity... a tiny debt payment to the bankers for being allowed to live in fantasyland.

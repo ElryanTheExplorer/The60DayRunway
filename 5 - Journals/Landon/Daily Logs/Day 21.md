@@ -18,17 +18,17 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-	- [x] Drink something caffeinated 
-	- [x] Breakfast
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+	- [x] Drink something caffeinated #archived
+	- [x] Breakfast #archived
 - [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
 - [ ] Do a chore (dish/laundry/trash/etc.)
@@ -51,9 +51,9 @@ Author:
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
 
-- [x] Finish Linux Setup (never going to be finished, but like get operational)
+- [x] Finish Linux Setup (never going to be finished, but like get operational) #archived
 - [ ] Push to repo / update site  - need to get github, vscode, and quartz installed to do this
-- [x] Record and Post V-log
+- [x] Record and Post V-log #archived
 
 ---
 

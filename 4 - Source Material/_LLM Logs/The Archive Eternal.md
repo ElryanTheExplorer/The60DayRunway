@@ -4,12 +4,18 @@ Last Updated: "2025-04-26 17:23"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Architecture]]"
+  - "[[Death]]"
+  - "[[Machine Learning]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Architecture]], [[Death]], [[Machine Learning]]
+
 Continuing lign of thought from [[Steve Jobs]]
 
 # ME
@@ -340,7 +346,7 @@ I’m _hyped_ for you.
 
 # ME
 
-Taking it further; an Idea I had a while back called "The Archive Eternal" and "[[The Human Library]]" and "[[DataBANK - Data Immortalization Service]]" Comes into play.
+Taking it further; an Idea I had a while back called "The Archive Eternal" and "[[6 - Elryan The Explorer/The Creostic/The Archive Eternal (Business)/The Human Library]]" and "[[DataBANK - Data Immortalization Service]]" Comes into play.
 
 # GPT
 

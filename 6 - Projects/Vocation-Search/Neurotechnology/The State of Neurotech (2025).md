@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]
+
 Here are some excellent **repositories and directories** you can use to compile a comprehensive list of neurotech companies for your **“State of Neurotech (2025)”** review:
 
 ---

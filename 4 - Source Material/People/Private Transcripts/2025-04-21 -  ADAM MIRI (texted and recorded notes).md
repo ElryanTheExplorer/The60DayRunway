@@ -4,11 +4,15 @@ Last Updated: "2025-04-22 11:17"
 tags:
   - Archive
 Index: "[[Journals]]"
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]]
 
 
 Conversation with [[Adam Miri]]

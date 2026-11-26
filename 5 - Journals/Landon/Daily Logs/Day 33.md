@@ -19,15 +19,15 @@ Author:
 ## 🕒 Life Schedule
 
 - [ ] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-	- [x] Drink something caffeinated 
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+	- [x] Drink something caffeinated #archived
 	- [ ] Breakfast - break at 10am
 - [ ] Make work to-do list 
 - [ ] Check financial status (e.g., bank, crypto, whatever)
@@ -50,14 +50,14 @@ Author:
 ## 🤑Work Schedule
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
-- [x] [[2025-06-02 ~ AidArena Meeting|Jonsey Meeting]]
-- [x] [[_JAVA baptism by fire|Begin Journey]]
+- [x] [[2025-06-02 ~ AidArena Meeting|Jonsey Meeting]] #archived
+- [x] [[_JAVA baptism by fire|Begin Journey]] #archived
 - [ ] Install WNC Supply-sites
 - [ ] Push to repo / update site  
-- [x] Record and Post V-log
-	- [x] posted video to aidarena
-	- [x] [[R4Dash - R4Go The Story]]
-	- [x] [[R4Dash - R4Go Tech Request]]
+- [x] Record and Post V-log #archived
+	- [x] posted video to aidarena #archived
+	- [x] [[R4Dash - R4Go The Story]] #archived
+	- [x] [[R4Dash - R4Go Tech Request]] #archived
 
 ---
 ## 🧠 [[_Misc Tasks]]

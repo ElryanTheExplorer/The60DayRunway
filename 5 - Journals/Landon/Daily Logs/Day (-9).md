@@ -16,31 +16,31 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
 		- [ ] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
 	- [ ] Drink something green and holy (Good old matcha my beloved)  
-- [x] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something (yes, that counts)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
-- [x] Shower (for the love of all that is sacred)
-- [x] Reflect / prep for public speaking / writing
-- [x] Go outside (optionally with friends)
-- [x] Dinner or evening wind-down
+- [x] Check financial status (e.g., bank, crypto, whatever) #archived
+- [x] Eat something (yes, that counts) #archived
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
+- [x] Shower (for the love of all that is sacred) #archived
+- [x] Reflect / prep for public speaking / writing #archived
+- [x] Go outside (optionally with friends) #archived
+- [x] Dinner or evening wind-down #archived
 
 ## 🌱 Throughout Day
 
-- [x] Drink entire water bottle (seriously)
-- [x] Move body, stretch, or at least shift positions
-- [x] !!BREATHE!!
+- [x] Drink entire water bottle (seriously) #archived
+- [x] Move body, stretch, or at least shift positions #archived
+- [x] !!BREATHE!! #archived
 
 
 ## 🤑Work Schedule

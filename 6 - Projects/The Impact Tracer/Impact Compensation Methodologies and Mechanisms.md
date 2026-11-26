@@ -7,11 +7,14 @@ Index:
   - "[[The ARX Index]]"
 Topic:
   - "[[Impact, Guilds, and Community Culture]]"
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]]
 
 # 🧠 Implementation Blueprint: The Impact Attribution and Compensation Framework (ARX Protocol)
 

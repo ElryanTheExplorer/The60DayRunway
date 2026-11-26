@@ -4,13 +4,17 @@ Last Updated: 2025-04-19 13:28
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Mechanical Engineering]]"
+  - "[[Philosophy]]"
 Link: 
 Status: Unweathered
 Published: true
 Author: Landon
 ---
 ---
+
+Themes: [[Mechanical Engineering]], [[Philosophy]]
 
 # Me
 Index: [[Energy]]

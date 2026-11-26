@@ -1,7 +1,8 @@
 ---
 Date Created: 2025-04-23 10:57
 Last Updated: 2025-04-23 10:57
-tags: 
+tags:
+  - Project
 Index: "[[Tasks]]"
 Topic: 
 Status: Unweathered
@@ -13,14 +14,14 @@ Author: Landon
 **Focus:** Word censorship / redaction tool for cognitive filtering
 
 ## 🔧 Core Setup
-- [x] Basic Firefox extension scaffold created
-- [x] `manifest.json` configured with content script + popup
-- [x] `contentScript.js` written to censor user-defined terms
-- [x] `popup.html` created to manage blocklist
-- [x] `README.md` drafted with install/use instructions
+- [x] Basic Firefox extension scaffold created #archived
+- [x] `manifest.json` configured with content script + popup #archived
+- [x] `contentScript.js` written to censor user-defined terms #archived
+- [x] `popup.html` created to manage blocklist #archived
+- [x] `README.md` drafted with install/use instructions #archived
 
 ## 🎨 Branding & Aesthetics
-- [x] Flat minimalist bee icon within hexagon created
+- [x] Flat minimalist bee icon within hexagon created #archived
 - [ ] Export icon to `.ico`, `.png`, and `.svg` for cross-platform use
 - [ ] Add icon to `manifest.json` in correct size(s)
 

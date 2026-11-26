@@ -1,8 +1,24 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Machine Learning]]"
+  - "[[Mechanical Engineering]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Machine Learning]], [[Mechanical Engineering]]
+
 2024-10-29 10:43
 
 Tags: #Business 
 
-Paths: [[Cracked Ideas]]
+Paths: [[3 - Indexes/Cracked Ideas]]
 
 ERP for personal use (pretty much just a fancy budget)
 

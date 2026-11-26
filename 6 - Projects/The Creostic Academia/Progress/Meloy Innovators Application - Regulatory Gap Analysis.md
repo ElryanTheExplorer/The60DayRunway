@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Machine Learning]]"
+  - "[[Biomedical Engineering]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Machine Learning]], [[Biomedical Engineering]]
+
 ## Initial idea:
 In the medical device industry, maintaining compliance with the numerous regulations from organizations like the FDA, ISO, and EU MDR presents a continuous challenge. These regulations are crucial for ensuring patient safety and device effectiveness, yet their complexity can be overwhelming, especially for newcomers. Even seasoned professionals find it time-consuming to keep up with frequent updates and intricate requirements, which can lead to human error. 
 To tackle these issues, I would like to propose the creation and utilization of a machine learning tool aimed at facilitating regulatory gap analysis. This tool would serve two main functions: helping beginners by simplifying complex standards into understandable insights and aiding experienced professionals by automating compliance checks against the latest regulations. The primary feature of the tool would be its capability to conduct document-based gap analysis. By examining engineering documentation against the required standards, its goal would be to pinpoint discrepancies, provide actionable recommendations, and educate users on the reasons and methods for addressing these gaps (mitigating the risk of AI hallucination via the train of thought methodology in addition to allowing the user to still intervene). 

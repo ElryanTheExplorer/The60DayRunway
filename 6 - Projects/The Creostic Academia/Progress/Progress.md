@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 lineage based research paper databasing through citations in order to generate ideal research pathways for the most efficient progression of technology and humanity
 
 [[Call to action]] 

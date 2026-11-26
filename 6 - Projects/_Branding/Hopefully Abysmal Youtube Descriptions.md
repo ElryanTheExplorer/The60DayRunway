@@ -6,7 +6,7 @@ tags:
 Index:
   - "[[The ARX Index]]"
 Topic:
-  - "[[Hopefully Abysmal]]"
+  - "[[3 - Indexes/Hopefully Abysmal]]"
   - "[[Youtube"
 Status: Unweathered
 Published: true

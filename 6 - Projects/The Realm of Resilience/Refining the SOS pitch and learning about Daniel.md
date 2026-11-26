@@ -4,12 +4,16 @@ Last Updated: "2025-05-28 17:46"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Philosophy]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Philosophy]]
+
 # Summary:
 
 

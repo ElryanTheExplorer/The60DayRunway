@@ -1,16 +1,22 @@
 ---
 Date Created: 2025-06-16 01:04
 Last Updated: 2025-06-16 01:04
-tags: 
+tags:
+  - Project
 Index:
-  - "[[Elryan The Explorer]]"
-Topic: 
+  - "[[6 - Elryan The Explorer/The Generalist/Elryan the Explorer]]"
+Topic:
+  - "[[Philosophy]]"
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+  - "[[Biomedical Engineering]]"
 Status: Unweathered
 Published: true
-Author: 
+Author:
 aliases:
 ---
 ---
+
+Themes: [[Philosophy]], [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]], [[Biomedical Engineering]]
 
 
 **Detailed Substack post outline** that weaves together all the threads of your conversation—_Truman Show_, neuroethics, Creosticism, skiing as metaphor, and Camus’ revolt. The structure is meant to echo your own exploratory, philosophical tone while maintaining clear progression and impact.

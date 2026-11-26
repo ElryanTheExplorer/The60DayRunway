@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Programming]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Programming]]
+
 For the concept of **Uninhabited Land Pathways**, the focus would be on tracking the **development of wild, untouched land** and the **restoration of ecosystems** as an alternative to urbanization and expansion. The goal is to **maintain, expand**, or even **re-wild** natural spaces, preserving them as untouched ecosystems or reducing human encroachment.
 
 The **metrics** for this stage would center on the **health and growth of natural environments** rather than human habitation. Here's a set of potential **metrics** for the **Uninhabited Land Pathways** that track the conservation and development of wild spaces:

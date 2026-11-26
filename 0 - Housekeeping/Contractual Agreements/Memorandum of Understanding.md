@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Area
+Index: 
+Topic:
+  - "[[Housekeeping]]"
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]]
+
 **“The 60 Day Runway // The Rise of The Arx Foundation”**
 
 **Date:** ___________  

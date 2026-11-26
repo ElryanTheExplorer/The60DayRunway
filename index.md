@@ -3,7 +3,11 @@ title: Welcome to the Vault of Hopefully Abysmal
 description: A curated archive of raw ideas, existential experiments, and ongoing attempts to escape the loop.
 tags:
   - linker-exclude
+Topic:
+  - "[[Philosophy]]"
 ---
+
+Themes: [[Philosophy]]
 
 # Welcome to the Vault of Hopefully Abysmal 🌌
 
@@ -11,7 +15,7 @@ This is a living archive of experiments, frameworks, and survival strategies by 
 
 ---
 
-***Note: By continuing your perusal of this vault you are bound to the terms of the [license](./license); this is for the greater good, tldr: do not get in the way. The 60 Day Runway Project spans the entirety of the vault until its conclusion, this will stay public.***
+***Note: By continuing your perusal of this vault you are bound to the terms of the [license](license.md); this is for the greater good, tldr: do not get in the way. The 60 Day Runway Project spans the entirety of the vault until its conclusion, this will stay public.***
 
 ---
 ## 📚 Featured Initiatives

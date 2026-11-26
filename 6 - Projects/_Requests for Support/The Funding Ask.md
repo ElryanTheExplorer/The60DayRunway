@@ -4,13 +4,16 @@ Last Updated: 2025-05-02 20:16
 tags:
   - Project
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
 Link:
   - https://www.youtube.com/watch?v=qBhnGuTxRSM
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]]
 
 # 📢 Funding Request: Help Us Build the Future of Education
 

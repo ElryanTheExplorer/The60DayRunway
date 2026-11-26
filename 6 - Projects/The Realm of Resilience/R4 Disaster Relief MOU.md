@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Mechanical Engineering]]"
+  - "[[Programming]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Mechanical Engineering]], [[Programming]]
+
 # Memorandum of Understanding
 
 ### Between Landon Dahle and 4R (Resilience, Relief & Recovery Reach)

@@ -1,15 +1,21 @@
 ---
-Date Created: "2025-06-15 23:15"
-Last Updated: "2025-06-15 23:15"
-tags: 
-Index: 
-Topic: 
+Date Created: 2025-06-15 23:15
+Last Updated: 2025-06-15 23:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+  - "[[Biomedical Engineering]]"
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
-Author: 
+Author:
 aliases:
 ---
 ---
+
+Themes: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]], [[Biomedical Engineering]], [[Philosophy]]
 
 # Me
 

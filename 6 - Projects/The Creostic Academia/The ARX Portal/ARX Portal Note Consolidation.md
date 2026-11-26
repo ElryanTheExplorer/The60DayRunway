@@ -5,12 +5,17 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Signal Processing]]"
+  - "[[Philosophy]]"
+  - "[[Mechanical Engineering]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Signal Processing]], [[Philosophy]], [[Mechanical Engineering]]
 
 lets consolidate these portal models into a single visual system architecture. Fast:```---
 

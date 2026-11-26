@@ -5,14 +5,18 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
   - "[[Adam Miri]]"
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
 ---
 ---
+
+Themes: [[Money]]
+
 # Market Analysis for Scool / 
 ## 1. Industry Overview
 

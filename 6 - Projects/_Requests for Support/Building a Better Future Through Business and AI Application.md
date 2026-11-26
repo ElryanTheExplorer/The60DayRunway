@@ -4,12 +4,18 @@ Last Updated: 2025-04-27 18:37
 tags:
   - Project
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
+  - "[[Machine Learning]]"
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]], [[Machine Learning]], [[Philosophy]]
+
 # From The Beginning (skip to next top level header for competition submission)
 ## The Immediate Problem:
 

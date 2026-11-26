@@ -4,12 +4,17 @@ Last Updated: "2025-05-22 16:52"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Mechanical Engineering]]"
+  - "[[Programming]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Mechanical Engineering]], [[Programming]]
+
 # Summary:
 
 

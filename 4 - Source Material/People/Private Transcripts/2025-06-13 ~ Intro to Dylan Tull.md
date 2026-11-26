@@ -1,3 +1,14 @@
+---
+Date Created: 2025-06-13 00:00
+Last Updated: 2025-06-13 00:00
+tags:
+  - Resource
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 Grimes
 Blockchain
 Liminal-web // liminal-dial
@@ -18,7 +29,7 @@ axia - high dimensional display
 - tracking funds
 	- tax data synthesis?
 - tracking mimetics
-	- [[Intro to The DSWM Tech Stack]]
+	- [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The DSWM/Intro to The DSWM Tech Stack]]
 
 chat to change the interface
 - webgl globe

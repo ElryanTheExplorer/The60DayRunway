@@ -8,4 +8,4 @@ Status: Unweathered
 ---
 
 
-[Anti-vaxxers etc.](https://www.youtube.com/watch?v=AYkhlXronNk&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=15) - [[Epistemic Responsibility]] is a MUST. No such thing as a private belief. 
+[Anti-vaxxers etc.](https://www.youtube.com/watch?v=AYkhlXronNk&list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR&index=15) - [[7 - The Katalyst/The Capitalist/The 60 Day Runway/5 - Journals/Landon/Beliefs/Epistemic Responsibility]] is a MUST. No such thing as a private belief. 

@@ -1,3 +1,20 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Philosophy]]"
+  - "[[Machine Learning]]"
+  - "[[Introspection]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Philosophy]], [[Machine Learning]], [[Introspection]]
+
 # Comparison of **SCOOL’s educational philosophy** with **Waldorf** and **Montessori** education frameworks, organized by key pillars. 
 Each section highlights **parallels** and **caveats** (i.e. tensions, divergences, or limitations):
 

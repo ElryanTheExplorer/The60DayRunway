@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 ## Problem statements: 
 We believe future home owners want to be more hands on in the design of their homes but do not have the time or know-how to do so efficiently.
 

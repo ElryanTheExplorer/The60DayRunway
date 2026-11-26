@@ -1,29 +1,33 @@
 ---
 Date Created: 2025-04-23 10:58
 Last Updated: 2025-04-23 10:58
-tags: 
+tags:
+  - Project
 Index:
   - "[[Tasks]]"
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
 
+Themes: [[Programming]]
+
 **Focus:** Contextual language replacement or auto-translation using LibreTranslate
 
 ## 🔧 Core Setup
-- [x] Basic Firefox extension scaffold created
-- [x] `manifest.json` configured for scripting and storage
-- [x] `popup.html` for adding translation pairs + toggle for API mode
-- [x] `contentScript.js` handles both local replacement and LibreTranslate
-- [x] LibreTranslate integration implemented (manual & auto mode)
-- [x] `README.md` documents API and usage
+- [x] Basic Firefox extension scaffold created #archived
+- [x] `manifest.json` configured for scripting and storage #archived
+- [x] `popup.html` for adding translation pairs + toggle for API mode #archived
+- [x] `contentScript.js` handles both local replacement and LibreTranslate #archived
+- [x] LibreTranslate integration implemented (manual & auto mode) #archived
+- [x] `README.md` documents API and usage #archived
 
 ## 🎨 Branding & Aesthetics
-- [x] Minimalist interphase-inspired icon (cell + nucleus + chromatin)
+- [x] Minimalist interphase-inspired icon (cell + nucleus + chromatin) #archived
 - [ ] Export icon to `.ico`, `.png`, and `.svg` for packaging
 - [ ] Add icon to `manifest.json`
 

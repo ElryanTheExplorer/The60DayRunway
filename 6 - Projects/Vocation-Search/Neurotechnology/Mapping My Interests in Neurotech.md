@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+  - "[[Biomedical Engineering]]"
+  - "[[Philosophy]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]], [[Biomedical Engineering]], [[Philosophy]]
 
 # GPT
 Given everything I know about you—your background in biomedical engineering, your deep philosophical curiosity (especially through **Creosticism**), your love for **tool-building**, **education reform**, and **human–machine symbiosis**, and your current interest in neurotech and self-exploration—I’d say you’d be _most interested_ in the following fields within neurotech:

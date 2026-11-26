@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]]
+
 [![](https://yt3.ggpht.com/ytc/AIdro_kaJtUUiCiL8hJeTnTBd7chUrhZneduVFycEUExmeQZpzI=s88-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@ETHGlobal)
 
 [ETHGlobal](https://www.youtube.com/@ETHGlobal)

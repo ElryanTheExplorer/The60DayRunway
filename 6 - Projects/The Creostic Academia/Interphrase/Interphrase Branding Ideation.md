@@ -1,7 +1,8 @@
 ---
 Date Created: 2025-04-23 10:12
 Last Updated: 2025-04-23 10:12
-tags: 
+tags:
+  - Project
 Index: "[[Branding]]"
 Topic: "[[Interphrase]]"
 Status: Unweathered

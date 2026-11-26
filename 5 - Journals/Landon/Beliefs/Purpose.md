@@ -22,4 +22,4 @@ My purpose is whatever I want to do at any given time, so I must serve my action
 
 ---
 
-Had the intro thought to [[Time as a wave]] whilst experiencing the above.
+Had the intro thought to [[7 - The Katalyst/The Capitalist/The 60 Day Runway/5 - Journals/Landon/Beliefs/Time as a wave]] whilst experiencing the above.

@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Machine Learning]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Machine Learning]]
+
 **Proposal: Aion - The Personal AI Infrastructure for a Post-Labor Economy**
 
 **Tagline:** _Your AI, Your Data, Your Growth._

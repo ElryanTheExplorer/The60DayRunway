@@ -4,12 +4,15 @@ Last Updated: 2025-04-20 22:12
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
 Link: https://www.youtube.com/watch?v=7ySVWcFHz98
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]]
 
 0:00
 I spent 18 months rebuilding my algorithmic trading platform in Rust I'm

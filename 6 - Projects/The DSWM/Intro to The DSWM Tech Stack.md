@@ -5,13 +5,17 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author:
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
   - "[[Landon Dahle]]"
 ---
+
+Themes: [[Programming]]
+
 Discussed in [[conversation on The Decentralized Semantic Web Mirror (DSWM)]]
 
 ---

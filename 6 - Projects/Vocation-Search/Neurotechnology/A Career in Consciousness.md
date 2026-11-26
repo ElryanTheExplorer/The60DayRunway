@@ -1,16 +1,22 @@
 ---
 Date Created: 2025-06-15 23:19
 Last Updated: 2025-06-15 23:19
-tags: 
-Index: 
+tags:
+  - Project
+Index:
 Topic:
   - "[[Neurotechnology]]"
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+  - "[[Philosophy]]"
+  - "[[Signal Processing]]"
 Status: Unweathered
 Published: true
-Author: 
+Author:
 aliases:
 ---
 ---
+
+Themes: [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]], [[Philosophy]], [[Signal Processing]]
 
 Dive deep into the **consciousness field**—that wild frontier where physics, neurobiology, and philosophy collide. Here's a breakdown of cutting-edge research, labs, theories, and experimental knock-on effects 💡
 

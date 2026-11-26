@@ -5,12 +5,17 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Money]]"
+  - "[[Architecture]]"
+  - "[[Machine Learning]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Money]], [[Architecture]], [[Machine Learning]]
 
 ### 🟨 **Why are you interested in our annual theme?**
 

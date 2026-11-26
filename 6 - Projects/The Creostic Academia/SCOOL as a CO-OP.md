@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Machine Learning]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Machine Learning]]
+
 **SCOOL could _definitely_ be positioned as a co-op**, and doing so could align powerfully with both your ideological aims and the current momentum around decentralized, equitable ownership models like what Heirloom.page is tapping into.
 
 Here's how and **why this makes sense strategically**, especially in the context of your conversation:

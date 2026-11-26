@@ -5,18 +5,21 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
 
+Themes: [[Programming]]
+
 Want to use cursor but don't want to pay for the pro pro mode with unlimited shit; thought I'll just optimize the fuck out of project planning to get to the point that I just upload a github issues list esque plan and let it go ham.
 
 Converstion prompting this: [[Architecture Planning]]
 
-[[ChatGPT]] Reformatting of all of that: 
+[[2 - Paths/ChatGPT]] Reformatting of all of that: 
 
 **Canvas Title: Obsidian-to-GitHub Issue Automation Pipeline**
 

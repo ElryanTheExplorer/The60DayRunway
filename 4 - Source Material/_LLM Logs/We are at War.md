@@ -4,12 +4,16 @@ Last Updated: "2025-04-29 11:49"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]]
+
 # Summary:
 
 

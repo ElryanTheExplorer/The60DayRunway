@@ -40,7 +40,7 @@ Computer Science Student, potential co-founder but timeline is hard.
 		- Not to replace education, but to be the backend of it
 - Tim is unable to join full time right now but I think I convinced him to join at least part of his part time lolll.
 	- Pushed him to get a part-time job to pay the bills and come work with us for the other half of his working time if cannot find a full-time job.
-	- He's going to reach out to Arnold Castro, the guy in charge of the [[Building a Better Future Through Business and AI Application|Building a Better Future Through Business and AI Competition]], to see whats up on our end (expecting email from him by end of week if we are in the top 36 teams in the running for the grand prize)
+	- He's going to reach out to Arnold Castro, the guy in charge of the [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Outreach/Building a Better Future Through Business and AI Application|Building a Better Future Through Business and AI Competition]], to see whats up on our end (expecting email from him by end of week if we are in the top 36 teams in the running for the grand prize)
 	- Sent him the [[SCOOL and ARX Portal Forwardable]] to send on to anyone he thinks could help out.
 ## Curiosities
 - More a fear that I did not communicate my goals well enough in the AI Business competition but its just a delay on the timeline, will get there eventually...

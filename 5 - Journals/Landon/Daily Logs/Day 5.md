@@ -18,43 +18,43 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Make work to-do list  
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend - ran out... (ordered more should get here tmrw) // got here later in day and took one
-		- [x] veggie superfood blend (x2 today)
-	- [x] Drink something with some kick - Mcd's caramel frappe yumm
+- [x] Make work to-do list #archived
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend - ran out... (ordered more should get here tmrw) // got here later in day and took one #archived
+		- [x] veggie superfood blend (x2 today) #archived
+	- [x] Drink something with some kick - Mcd's caramel frappe yumm #archived
 - [ ] Check financial status (e.g., bank, crypto, whatever)
-- [x] Eat something for breakfast
+- [x] Eat something for breakfast #archived
 - [ ] Do a chore (dish/laundry/trash/etc.)
-	- [x] Swept hobby room for dog hair, literally cloned my dog
+	- [x] Swept hobby room for dog hair, literally cloned my dog #archived
 	- [ ] Unload dishes
-- [x] Handle pet care / errands / groceries  
-- [x] Eat Lunch MF
-- [x] Shower (for the love of all that is sacred)
-- [x] Reflect / prep for public speaking / writing
-- [x] Go outside (optionally with friends)
-- [x] Dinner or evening wind-down
+- [x] Handle pet care / errands / groceries #archived
+- [x] Eat Lunch MF #archived
+- [x] Shower (for the love of all that is sacred) #archived
+- [x] Reflect / prep for public speaking / writing #archived
+- [x] Go outside (optionally with friends) #archived
+- [x] Dinner or evening wind-down #archived
 
 ## 🌱 Throughout Day
 
-- [x] Drink entire water bottle (seriously)
-- [x] Move body, stretch, or at least shift positions
-- [x] !!BREATHE!!
+- [x] Drink entire water bottle (seriously) #archived
+- [x] Move body, stretch, or at least shift positions #archived
+- [x] !!BREATHE!! #archived
 
 
 ## 🤑Work Schedule
 
-- [x] Health Check-up
-- [x] Map out SCOOL experience
-	- [x] Ideation - https://www.are.na/nxlounojeoi/the-scool-experience
-	- [x] [[The SCOOL Student Experience.canvas|Translation to map]]
-- [x] Record and post video
+- [x] Health Check-up #archived
+- [x] Map out SCOOL experience #archived
+	- [x] Ideation - https://www.are.na/nxlounojeoi/the-scool-experience #archived
+	- [x] [[The SCOOL Student Experience.canvas|Translation to map]] #archived
+- [x] Record and post video #archived
 
 Pushing to later:
 - [ ] Figma mockups of intro and all portals for all device types

@@ -4,13 +4,19 @@ Last Updated: 2025-05-04 13:24
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
+  - "[[Money]]"
+  - "[[Architecture]]"
 Link:
   - https://www.youtube.com/watch?v=TZOoT8AbkNE&lc=UgwHM62bvAX37mOAH2B4AaABAg.AGrtx2mI0oNAH_s_Hmdh2d
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Programming]], [[Money]], [[Architecture]]
+
 # Summary:
 
 

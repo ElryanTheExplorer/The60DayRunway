@@ -5,12 +5,17 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Signal Processing]]"
+  - "[[Philosophy]]"
+  - "[[Biomedical Engineering]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Signal Processing]], [[Philosophy]], [[Biomedical Engineering]]
 
 > _Short, rapid dives into knowledge — fast-paced, frictionless._
 

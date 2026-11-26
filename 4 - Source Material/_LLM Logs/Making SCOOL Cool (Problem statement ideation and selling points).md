@@ -4,12 +4,16 @@ Last Updated: "2025-05-06 15:00"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]]
+
 # Summary:
 
 

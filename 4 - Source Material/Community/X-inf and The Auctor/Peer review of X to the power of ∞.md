@@ -7,13 +7,16 @@ Index:
   - "[[The ARX Index]]"
 Topic:
   - "[[Governance]]"
+  - "[[Philosophy]]"
 Status: Weathering
 Published: true
 Author:
   - "[[Landon Dahle]]"
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
 ---
 ---
+
+Themes: [[Philosophy]]
 
 Prompted by: [[Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability]]
 

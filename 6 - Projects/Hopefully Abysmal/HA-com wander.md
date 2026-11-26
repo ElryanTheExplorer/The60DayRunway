@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 This is a **modular narrative structure**: easy to implement as click-through tiles or collapsible sections, and expandable into a full game later.
 
 ---

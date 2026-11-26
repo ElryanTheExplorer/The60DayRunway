@@ -5,12 +5,15 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Philosophy]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Philosophy]]
 
 > _Serendipity engine — what you didn't know you needed._
 

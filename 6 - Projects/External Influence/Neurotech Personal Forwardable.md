@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Biomedical Engineering]]"
+  - "[[Programming]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Biomedical Engineering]], [[Programming]]
+
 **Howdy!**
 
 My name is **Landon Dahle**, and I’m a recent graduate in **Biomedical Engineering (Honors)** from Texas A&M University, with a strong foundation in medical technology development, full-stack prototyping, and cross-functional design. I’m currently seeking a **full-time role in healthcare technology** where I can support my family while contributing to work that genuinely improves lives.

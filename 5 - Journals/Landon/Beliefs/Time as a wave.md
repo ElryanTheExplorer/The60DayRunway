@@ -11,7 +11,7 @@ Published: false
 ---
 ---
 
-Had the intro thought to the following whilst experiencing that described within [[Purpose]].
+Had the intro thought to the following whilst experiencing that described within [[7 - The Katalyst/The Capitalist/The 60 Day Runway/5 - Journals/Landon/Beliefs/Purpose]].
 
 Was listening to neo-classical piano music at the time, ebbing and flowing like a wave; I noticed the prevalence of waves in our life, energy (light, sound, heat, the movement of particles etc.) and had the thought that time was akin to a wave as well (or at least it should be). Our life experience as a wave follows suit, akin to Buddhism's concept of reincarnation could this just be the peak (or valley) of an oscillating wave of consciousness? Perhaps one sign of the amplitude of the wave is the human experience and the other something more transcendental (assuming centralized and repeating). 
 

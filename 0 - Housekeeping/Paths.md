@@ -1,3 +1,15 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Area
+Index: 
+Topic:
+  - "[[Housekeeping]]"
+Status: Unweathered
+Published: false
+---
+---
 Subdivide paths folder into topics and linguistics
 
 Make algo to go through and pick up all common words / phrases via token similarity and make md files for each of them.

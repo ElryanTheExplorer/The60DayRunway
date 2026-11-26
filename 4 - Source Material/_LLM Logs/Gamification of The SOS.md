@@ -4,12 +4,17 @@ Last Updated: "2025-05-26 10:46"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
+  - "[[Programming]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]], [[Programming]]
+
 # Summary:
 
 

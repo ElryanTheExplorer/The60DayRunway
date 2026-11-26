@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 ### 🧠 **Prioritize These People for Strategic Targeting**
 
 #### 1. **Renee Day (VP of Marketing)**

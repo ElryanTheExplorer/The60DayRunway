@@ -1,8 +1,24 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Machine Learning]]"
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Machine Learning]], [[Money]]
+
 2024-06-01 00:16
 
 Tags: #Business 
 
-Paths: [[Cracked Ideas]], [[Generative AI]]
+Paths: [[3 - Indexes/Cracked Ideas]], [[Generative AI]]
 
 - Judging Criteria
     1. Is the problem clear and concise?

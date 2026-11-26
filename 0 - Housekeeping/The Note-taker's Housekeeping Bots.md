@@ -1,9 +1,9 @@
 ---
 Date Created: 2025-02-07 14:17
-Last Updated: 
+Last Updated:
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
+Index: "[[3 - Indexes/Cracked Ideas]]"
 Topic: Programming
 Status: Unweathered
 Published: false

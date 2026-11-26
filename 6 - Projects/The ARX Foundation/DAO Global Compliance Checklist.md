@@ -5,13 +5,17 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
-  - "[[ChatGPT]]"
+  - "[[2 - Paths/ChatGPT]]"
 ---
 ---
+
+Themes: [[Money]]
+
 ## **1. DAO Structuring**
 
 - [ ] Choose governance tooling (e.g., Aragon, Tally, Snapshot)

@@ -3,13 +3,17 @@ Date Created: 2025-04-16 19:17
 Last Updated: 2025-04-16 19:17
 tags:
   - Project
-Index: "[[Cracked Ideas]]"
-Topic: 
+Index: "[[3 - Indexes/Cracked Ideas]]"
+Topic:
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
+
+Themes: [[Programming]]
+
 - [ ] Migrate tasks to notion...
 
 - [ ] Add 'call to artists' to [[Harnessing Entropy - A Thermodynamic Framework for World Peace and Energy Abundance|The ARX Manifesto]]
@@ -42,7 +46,7 @@ Author:
 	- [ ] Move answered questions into folder
 		- [ ] [[Unanswered]] questions for SCOOL
 - [ ] Rename image attachments for ease of perusal and reference
-- [ ] Inter-link all relevant mentions of impact to [[Impact Compensation Methodologies and Mechanisms]]
+- [ ] Inter-link all relevant mentions of impact to [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The Impact Tracer/Impact Compensation Methodologies and Mechanisms]]
 - [ ] [[SCOOL Portal Mockups|Figma mockups of intro and all portals for all device types]]
 - [ ] [[X-inf P&E V2.11 visualization.canvas|X-inf P&E V2.11 visualization]]
 	- [ ] [[Request for Peer Review on X to the power of ∞ – The Philosophy of Accountability]]

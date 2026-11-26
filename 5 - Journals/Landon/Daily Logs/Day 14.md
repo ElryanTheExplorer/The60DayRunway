@@ -18,46 +18,46 @@ Author:
 
 ## 🕒 Life Schedule
 
-- [x] Morning routine  
-	- [x] Brush teeth  
-	- [x] Take meds  
-		- [x] straterra
-		- [x] l-methyl folate
-		- [x] glucosamine with chondroitin
-		- [x] omega 3-6-9 complex
-		- [x] mushroom blend
-		- [x] veggie superfood blend
-	- [x] Drink something caffeinated 
-	- [x] Breakfast
+- [x] Morning routine #archived
+	- [x] Brush teeth #archived
+	- [x] Take meds #archived
+		- [x] straterra #archived
+		- [x] l-methyl folate #archived
+		- [x] glucosamine with chondroitin #archived
+		- [x] omega 3-6-9 complex #archived
+		- [x] mushroom blend #archived
+		- [x] veggie superfood blend #archived
+	- [x] Drink something caffeinated #archived
+	- [x] Breakfast #archived
 - [ ] Make work to-do list 
-- [x] Check financial status (e.g., bank, crypto, whatever)
-- [x] Do a chore (dish/laundry/trash/etc.)
-- [x] Handle pet care / errands / groceries  
-- [x] Lunch
-- [x] Go outside (optionally with friends)
+- [x] Check financial status (e.g., bank, crypto, whatever) #archived
+- [x] Do a chore (dish/laundry/trash/etc.) #archived
+- [x] Handle pet care / errands / groceries #archived
+- [x] Lunch #archived
+- [x] Go outside (optionally with friends) #archived
 - [ ] Shower (for the love of all that is sacred)
 - [ ] Reflect / prep for public speaking / writing
-- [x] Dinner 
+- [x] Dinner #archived
 - [ ] Evening wind-down
 
 ## 🌱 Throughout Day
 
-- [x] Drink entire water bottle (seriously)
-- [x] Move body, stretch, or at least shift positions
-- [x] !!BREATHE!!
+- [x] Drink entire water bottle (seriously) #archived
+- [x] Move body, stretch, or at least shift positions #archived
+- [x] !!BREATHE!! #archived
 
 
 ## 🤑Work Schedule
  Having trouble thinking of what to do? Check and answer some [[Unanswered]] questions.
 
 
-- [x] Metagov Seminar?
-- [x] Update Linkedin
-- [x] make Links page on are.na - https://www.are.na/nxlounojeoi/my-links-q76zj0zp2hu
-- [x] Google business page
-	- [x] Google ads campaign for shirts
-- [x] Push to repo / update site  
-- [x] Record and Post V-log
+- [x] Metagov Seminar? #archived
+- [x] Update Linkedin #archived
+- [x] make Links page on are.na - https://www.are.na/nxlounojeoi/my-links-q76zj0zp2hu #archived
+- [x] Google business page #archived
+	- [x] Google ads campaign for shirts #archived
+- [x] Push to repo / update site #archived
+- [x] Record and Post V-log #archived
 
 ---
 

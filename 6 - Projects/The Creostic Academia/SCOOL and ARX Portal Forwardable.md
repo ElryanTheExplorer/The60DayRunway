@@ -5,13 +5,17 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Money]]"
 Status: Unweathered
 Published: true
 Author:
   - "[[Landon Dahle]]"
 ---
 ---
+
+Themes: [[Money]]
+
 ## Notes:
 Name // Cofounder
 The ARX Foundation and SCOOL Framework
@@ -79,7 +83,7 @@ Entrepreneur and Your Future Collaborator
 
 ## Fifth Draft (Final.)
 Howdy! 
-My name is Landon Dahle, and I am the founder of The Augment Realities Experience (ARX) Foundation. My cofounder Adam Miri and I are working on setting up an open education framework we are calling the Scalable Community for Open Online Learning ([[ELI5 The SCOOL Platform|SCOOL]]); a proposal for a [[DAO Voting Structures|decentralized but structured creative community]] and [[Impact Compensation Methodologies and Mechanisms|aptitude/impact tracking system]] designed to ensure that knowledge is open to all and creatives are fairly compensated for their work.
+My name is Landon Dahle, and I am the founder of The Augment Realities Experience (ARX) Foundation. My cofounder Adam Miri and I are working on setting up an open education framework we are calling the Scalable Community for Open Online Learning ([[ELI5 The SCOOL Platform|SCOOL]]); a proposal for a [[DAO Voting Structures|decentralized but structured creative community]] and [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The Creostic Academia/Impact Compensation Methodologies and Mechanisms|aptitude/impact tracking system]] designed to ensure that knowledge is open to all and creatives are fairly compensated for their work.
 
 We are currently building out an minimum viable product (MVP) of one such education platform that could exist on the SCOOL framework we are internally framing as "[The ARX Portal](https://vault.hopefullyabysmal.com/6---Projects/The-Creostic-Academia/The-ARX-Portal/)". This learning management system will leverage users' personal knowledge management systems and automate the tracking of content consumption to enable the aforementioned impact and aptitude tracking systems. We know this could become the new backend of our education system (there's a [[Market Analysis for SCOOL|~$25B market]] up for grabs!) and are working diligently to bring our ideas into reality. 
 

@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]]
+
 52 views Jan 10, 2022
 
 Join Pooja Shah for her talk titled, "Networked OKRs & Milestone Bounties," part of Protocol Labs' "Funding the Commons" virtual summit for individuals and organizations building new models of sustainable public goods funding and value alignment in open source networks. For more information go to: [https://fundingthecommons.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVdrSFc5aHEyVEctUHRFSWN1ZlUtYWhSb1pZUXxBQ3Jtc0tsd010d0JBNTFwb0VQMTk4bEN3Tm96aFZHTnEtdnZmWjdWY3Axc1ZuZklhM2Z1M0hPRUx2emJkYm12NFBqOGl6OGQ0emdEell3TV9Eb0wwb3JBWmVqZTVid1d3Y2prLXdYVGRiX0NHRnBUWkxreU9oWQ&q=https%3A%2F%2Ffundingthecommons.io%2F&v=8irO8qYBxFM)

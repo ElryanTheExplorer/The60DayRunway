@@ -1,3 +1,19 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Biomedical Engineering]]"
+  - "[[Signal Processing]]"
+  - "[[Machine Learning]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Biomedical Engineering]], [[Signal Processing]], [[Machine Learning]]
 
 
 **Field & Frequency Theory: A Multidisciplinary Framework for Ethical Systems Design Through Embodied Coherence**

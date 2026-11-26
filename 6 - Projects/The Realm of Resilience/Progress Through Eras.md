@@ -1,3 +1,14 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic: 
+Status: Unweathered
+Published: false
+---
+---
 Based on **"[[The SOS & The ROR - Pitch|The Society of Seekers]]"** outline, you're building an incredibly immersive and impactful platform that encourages **[[Exploration Gamification|real-world exploration]]**, **community development**, and **story-driven engagement**. 
 
 

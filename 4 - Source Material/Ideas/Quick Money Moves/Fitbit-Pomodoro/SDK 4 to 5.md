@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Resource
+Index: 
+Topic:
+  - "[[Programming]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Programming]]
+
 The path to converting your Fitbit app from SDK 4 to SDK 5 requires careful attention to structural changes, especially with UI components and widget definitions, which have breaking changes in SDK 5. Here's a structured approach to guide you through this migration:
 
 ---

@@ -5,10 +5,15 @@ tags:
   - Index
 Topic:
   - "[[Neurotechnology]]"
+  - "[[Biomedical Engineering]]"
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]"
+  - "[[Signal Processing]]"
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Biomedical Engineering]], [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]], [[Signal Processing]]
 
 > There’s much more beneath the surface 🎯 Neurotech spans far beyond the fields we covered—it's a broad and rapidly evolving domain. Here’s an expanded map of the major fields:
 
@@ -50,15 +55,15 @@ Published: true
         
 9. **[[Neural Engineering & Neurosystems Design]]**
     
-    - Neural circuit modeling, neuromechanics, neural tissue engineering, network neuroscience. [[Neural engineering]], [[Emerging Frontiers of Neuroengineering]]
+    - Neural circuit modeling, neuromechanics, neural tissue engineering, network neuroscience. [[Neural Engineering]], [[Emerging Frontiers of Neuroengineering]]
         
 10. **[[Computational & Theoretical Neuroscience]]**
     
-    - Mathematical and computational modeling, neuromorphic computing, computational psychiatry. [[Computational neuroscience]]
+    - Mathematical and computational modeling, neuromorphic computing, computational psychiatry. [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]
         
 11. **[[Neural Tissue Regeneration]]**
     
-    - Stem-cell scaffolds, biomaterials for regrowing neural tissue and repairing spinal/nerve injuries. [[Neural engineering]]
+    - Stem-cell scaffolds, biomaterials for regrowing neural tissue and repairing spinal/nerve injuries. [[Neural Engineering]]
         
 12. **[[Neurorobotics]]**
     
@@ -66,7 +71,7 @@ Published: true
         
 13. **[[Neural Enhancement _ Augmentation]]**
     
-    - Enhancement beyond therapy—memory stimulation, mood control, personality modulation. [[Neural engineering]]
+    - Enhancement beyond therapy—memory stimulation, mood control, personality modulation. [[Neural Engineering]]
         
 14. **[[Cyberware _ Embodied Neural Implants]]**
     
@@ -95,7 +100,7 @@ Published: true
 | [[Neural Implants & BCIs]]      | Reading/writing brain activity         |
 | [[Neuroprosthetics _ Rehab]]    | Restoring movement and senses          |
 | [[Neural Engineering]]          | Systems-level neural design            |
-| [[Computational Neuroscience]]  | Modeling and simulating neural systems |
+| [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Vocation-Search/Neurotechnology/Computational neuroscience]]  | Modeling and simulating neural systems |
 | [[Neural Regeneration]]         | Repairing neural tissues               |
 | [[Neurorobotics]]               | Brain-inspired robotics                |
 | [[Neural Augmentation]]         | Performance beyond baseline            |

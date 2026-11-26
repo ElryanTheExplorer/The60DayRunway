@@ -4,13 +4,19 @@ Last Updated: 2025-05-07 15:44
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Statistics]]"
+  - "[[Philosophy]]"
+  - "[[Biomedical Engineering]]"
 Link:
   - https://www.youtube.com/watch?v=0xS68sl2D70&t=1462s
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Statistics]], [[Philosophy]], [[Biomedical Engineering]]
+
 # Summary:
 
 

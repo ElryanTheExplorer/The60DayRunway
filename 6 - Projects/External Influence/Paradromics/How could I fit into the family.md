@@ -1,3 +1,20 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index:
+Topic:
+  - "[[Biomedical Engineering]]"
+  - "[[Programming]]"
+  - "[[2 - Paths/Computational Neuroscience]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Biomedical Engineering]], [[Programming]], [[2 - Paths/Computational Neuroscience]]
+
 How could Landon Dahle fit into the Paradromics family? He's applying to the Marketing Content Developer role.
 
 Based on the provided sources, Landon Dahle appears to be a strong candidate for the Marketing Content Developer role at Paradromics, particularly due to his unique blend of technical expertise, creative vision, and explicit interest in brain-computer interfaces (BCIs)

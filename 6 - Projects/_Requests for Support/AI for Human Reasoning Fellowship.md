@@ -1,3 +1,20 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Philosophy]]"
+  - "[[Biomedical Engineering]]"
+  - "[[Mechanical Engineering]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Philosophy]], [[Biomedical Engineering]], [[Mechanical Engineering]]
+
 # Questions:
 
 - 1) What is something you’ve created or helped create that you’re particularly proud of? (guide: 50-200 words)

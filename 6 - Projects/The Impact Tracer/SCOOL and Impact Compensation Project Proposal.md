@@ -1,3 +1,18 @@
+---
+Date Created: 2026-03-11 00:15
+Last Updated: 2026-03-11 00:15
+tags:
+  - Project
+Index: 
+Topic:
+  - "[[Money]]"
+Status: Unweathered
+Published: false
+---
+---
+
+Themes: [[Money]]
+
 ### **Project Title**
 
 **The Scalable Community for Open Online Learning (SCOOL) :: A Public Infrastructure for Knowledge Compensation Through Impact**

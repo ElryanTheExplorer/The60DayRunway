@@ -4,14 +4,18 @@ Last Updated: 2025-05-27 21:01
 tags:
   - Resource
 Index:
-  - "[[Interviews]]"
+  - "[[7 - The Katalyst/The Capitalist/The 60 Day Runway/3 - Indexes/Interviews]]"
 Topic:
   - "[[Bio-regional Gamification]]"
-Link: 
+  - "[[Architecture]]"
+Link:
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Architecture]]
+
 # Summary:
 
 
@@ -95,7 +99,7 @@ needs sourcing:
 	anonymity is optional, push for exposure to enable more
 	the collective asking you: how do you feel about this?
 		why?
-edify - better social media profiles [[The Human Library]]
+edify - better social media profiles [[6 - Elryan The Explorer/The Creostic/The Archive Eternal (Business)/The Human Library]]
 - break this down into smaller experiences
 	- micro-games to get pieces of the puzzle
 	- what you want to build // conceptualize for yourself

@@ -4,13 +4,19 @@ Last Updated: 2025-04-15 15:48
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Programming]]"
+  - "[[Money]]"
+  - "[[Philosophy]]"
 Link: 
 Status: Unweathered
 Published: true
 Author: Landon
 ---
 ---
+
+Themes: [[Programming]], [[Money]], [[Philosophy]]
+
 # Request for Sub-project readme's
 Here are **starter `README.md` templates** for each of the projects you’re planning to work on during Weeks 2–3 of _The 60 Day Runway_. These are meant to be clear, inviting, and sponsor/dev-oriented, with room for quick iteration and personal flavor.
 
@@ -49,7 +55,7 @@ This is part of a bigger exploration in mental autonomy. Built during the **60 D
 
 ## Contribute / Support
 
-- [x] Public alpha coming soon
+- [x] Public alpha coming soon #archived
 - 💬 Feedback welcome via Issues or [hopefullyabysmal.dev](https://hopefullyabysmal.dev)
 - ☕ Sponsor the journey on [Ko-fi] or [GitHub Sponsors]
 ```

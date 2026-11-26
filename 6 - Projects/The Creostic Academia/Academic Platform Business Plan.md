@@ -1,10 +1,12 @@
 ---
 Date Created: 2025-04-27 18:59
 Last Updated: 2025-04-27 18:59
-tags: 
+tags:
+  - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Programming]]"
 Status: Unweathered
 Published: true
 Author:
@@ -12,6 +14,8 @@ Author:
   - "[[Landon Dahle]]"
 ---
 ---
+
+Themes: [[Programming]]
 
 Similar to [[ARX General Business Plan]]
 

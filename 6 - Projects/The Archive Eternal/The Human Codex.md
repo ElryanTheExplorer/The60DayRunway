@@ -5,15 +5,18 @@ tags:
   - Project
 Index:
   - "[[The ARX Index]]"
-Topic: 
+Topic:
+  - "[[Mechanical Engineering]]"
 Status: Unweathered
 Published: true
 Author:
 ---
 ---
 
+Themes: [[Mechanical Engineering]]
 
-Archivist movements like the wayback machine and internet archive are very inspiring to me; I've had this idea for a while now but didn't think it to be really feasible (sitting on my own hands). I quite enjoy the concept of a [[The Human Library|human library]], where you can rent someones time (buy them lunch / a coffee) and just have a chat with them!! Not necessarily feasible due to the constraints of there only being one of that person, though could still be a cool thing for living people.
+
+Archivist movements like the wayback machine and internet archive are very inspiring to me; I've had this idea for a while now but didn't think it to be really feasible (sitting on my own hands). I quite enjoy the concept of a [[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/The Archive Eternal/The Human Library|human library]], where you can rent someones time (buy them lunch / a coffee) and just have a chat with them!! Not necessarily feasible due to the constraints of there only being one of that person, though could still be a cool thing for living people.
 
 >TLDR: Check out a human like one would a book
 	Buy lunch and have a conversation!!
@@ -22,7 +25,7 @@ Archivist movements like the wayback machine and internet archive are very inspi
 
 Similarly, the concept of being able to converse with people from the past is SOOOOO interesting for me. Now out of any time in our history we have the tools to do so (pseudo-conversationalist) via LLM and the archival of ones notes, words, and in a sense their essence and personality.
 
-[[Steve jobs]] had a similar desire, to speak with aristotle. I want to make that a reality. On the same vein, I think through his notes Jobs could be the first candidate for something like this, essentially akin to a GPT of him (as I'm sure someone has already made) but training specifically on all of his data.
+[[Steve Jobs]] had a similar desire, to speak with aristotle. I want to make that a reality. On the same vein, I think through his notes Jobs could be the first candidate for something like this, essentially akin to a GPT of him (as I'm sure someone has already made) but training specifically on all of his data.
 
 Taking it further, I feel the need to catalogue and honor every human life.
 

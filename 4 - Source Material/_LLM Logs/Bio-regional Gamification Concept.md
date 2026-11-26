@@ -4,12 +4,18 @@ Last Updated: "2025-05-22 16:50"
 tags:
   - Resource
 Index: 
-Topic: 
+Topic:
+  - "[[Money]]"
+  - "[[Programming]]"
+  - "[[Philosophy]]"
 Link: 
 Status: Unweathered
 Published: true
 ---
 ---
+
+Themes: [[Money]], [[Programming]], [[Philosophy]]
+
 # Summary:
 
 

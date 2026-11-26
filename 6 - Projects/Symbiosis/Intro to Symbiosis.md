@@ -14,7 +14,7 @@ Author:
 
 Initiative to get people to stop fucking fighting all of the time. We no longer need to survive to live, we just need to shut the fuck up and be nice to each other.
 
-[[The Human Library]] - A synergy focused network mapping of people you can reach out to when in need for something in specific. (Take the chance out of networking and replace it with data science)
+[[7 - The Katalyst/The Capitalist/The 60 Day Runway/6 - Projects/Symbiosis/The Human Library]] - A synergy focused network mapping of people you can reach out to when in need for something in specific. (Take the chance out of networking and replace it with data science)
 [[Ben Smith]] is working on the [[Bio-regional Gamification Concept]] which will likely turn into something along the lines of a community interaction incentive pump.
 
 
