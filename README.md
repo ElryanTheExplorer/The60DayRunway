@@ -9,6 +9,12 @@ Topic:
 Status: Unweathered
 Published: false
 ---
+
+> [!info] Archived (November 2026)
+> The 60 Day Runway is finished and this repository is read-only. The work continues as
+> **[The Infinite Runway](https://github.com/The-ARX-Foundation/TheInfiniteRunway)**, published by
+> [The ARX Foundation](https://www.thearxfoundation.org). The DIY-MBA module lives on at its own repo.
+
 ---
 
 Themes: [[Money]]
